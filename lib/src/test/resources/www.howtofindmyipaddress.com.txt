@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HTML>
+<head><meta http-equiv="X-UA-Compatible" content="IE=8" />
+<META name="keywords" content="how to find my ip address">
+<META name="description" content="A web site that answers the question, how to find my ip address.">
+<TITLE>How To Find My IP Address</TITLE>
+<meta name="google-site-verification" content="k3J17NgG2bpRVWlQsPauddBi97DzT_4UkZVtc6B5Hyo">
+</head>
+<body bgcolor="#EFEFEF" link="#000022" vlink="#220000" MARGINWIDTH="0" LEFTMARGIN="0">
+
+<center>
+<div style="width:1000px; border: 1px dotted #333333; padding: 18px; background-color: #FFFFFF;"><font face="Calibri,Arial">
+<h1 style="font-size:42px; padding: 0px; margin: 0px;">How To Find My IP Address</h1><i>A web site that tells you how to find your IP address, on a 
+Mac, PC, or Linux.</i> In the past, when you would be on the phone with customer support and they needed to know your IP address to 
+fix a problem, the first words out of your mouth were probably: <b>How do I find my IP address?</b>  The aim of our site is 
+to make it so you no longer find yourself asking ''how to find my IP address?,'' and instead have you say ''I can find my IP 
+address!''
+
+<table width="100%" cellspacing="0" cellpadding="0" align="left" border="0">
+<tr height="10"><td>&nbsp;</td></tr>
+<tr>
+<td valign="top" width="646" align="left">
+<font face="Calibri,Arial">
+
+<h2 style="margin: 0px; padding: 0px; color: #22BB22; font-size: 30px;">Your IP Address Is:</h2>
+
+<span style="font-size: 85px; color: #DDDDFF; font-family: Calibri,Arial;">{</span>
+<span style="font-size: 80px; color: #22BB22; font-family: Calibri,Arial;">201.209.86.139</span>
+<span style="font-size: 85px; color: #DDDDFF; font-family: Calibri,Arial;">}</span>
+
+<br>Your web browser announces your IP address to any web site, so our website can find your IP 
+address simply by listening for this announcement...  So one very quick way how to find your IP address is to point your 
+browser to howtofindmyipaddress.com.
+
+<br>
+
+
+</td>
+<td width="18">&nbsp;</td>
+<td width="300" valign="top" bgcolor="#EFEFEF" style="border: 1px solid #DDDDDD;" align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9581542831130258";
+/* 300x250, created 9/23/10 */
+google_ad_slot = "5855307237";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+
+</tr>
+<tr height="24"><td><hr style="border-top:1px solid #FFFFFF; border-bottom: 1px dotted #333333;"></td></tr>
+<tr>
+
+<td valign="top" width="646" align="left">
+<font face="Calibri,Arial">
+
+<h2 style="margin: 0px; padding: 0px;">How To Find My IP Address On A Mac</h2><br>For Mac users, the question of 
+how to find <a href="http://www.howtofindmyipaddress.com/my-ip/">my IP</a> address can be answered by 
+opening up your Terminal program, and typing ''ifconfig'' at the prompt.  (Terminal is a program that comes free and installed 
+by default on every Macintosh, and is located in Applications, under the Utilities folder.)
+
+<br>
+
+<span style="font-size: 105px; color: #DDDDFF; font-family: Calibri,Arial;">{</span>
+<img width="475" height="75" alt="How to find my IP Address on a Mac picture" src="how-to-find-my-ip-address-mac.gif">
+<span style="font-size: 105px; color: #DDDDFF; font-family: Calibri,Arial;">}</span>
+
+</td>
+<td width="18">&nbsp;</td>
+<td width="300" bgcolor="#EFEFEF" style="border: 1px solid #DDDDDD;" valign="top" align="center" rowspan="15">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9581542831130258";
+/* 160x600, created 9/23/10 */
+google_ad_slot = "7061853308";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+</tr>
+<tr height="24"><td><hr style="border-top:1px solid #FFFFFF; border-bottom: 1px dotted #333333;"></td></tr>
+<tr>
+
+<td valign="top" width="646" align="left">
+<font face="Calibri,Arial">
+
+<h2 style="margin: 0px; padding: 0px;">How To Find My IP Address On A PC</h2><br>For Windows users, here is how I 
+can find my IP address.  First, click the Start Menu, and select Run.  Next, type ''cmd'' into the box and click the ''OK'' 
+button.  Finally, at the prompt, type ''ipconfig'' and information about your IP Address will be displayed.
+
+<br>
+
+<span style="font-size: 105px; color: #DDDDFF; font-family: Calibri,Arial;">{</span>
+<img width="475" height="75" alt="How to find my IP Address on a PC picture" src="how-to-find-my-ip-address-pc.gif">
+<span style="font-size: 105px; color: #DDDDFF; font-family: Calibri,Arial;">}</span>
+
+</td>
+</tr>
+
+<tr height="24"><td><hr style="border-top:1px solid #FFFFFF; border-bottom: 1px dotted #333333;"></td></tr>
+<tr>
+
+<td valign="top" width="646" align="left">
+<font face="Calibri,Arial">
+
+<h2 style="margin: 0px; padding: 0px;">How To Find My IP Address On Linux</h2><br>Next, 
+<a href="http://www.howtofindmyipaddress.com/how-do-i-find-my-ip-address/">how do I find my IP address</a> on a machine running Linux? On a Linux system, I can 
+find my IP address by typing ''ifconfig'' at the prompt, which will output information about my IP Address.
+<br>
+
+<span style="font-size: 105px; color: #DDDDFF; font-family: Calibri,Arial;">{</span>
+<img width="475" height="75" alt="How to find my IP Address on a PC picture" src="how-to-find-my-ip-address-linux.gif">
+<span style="font-size: 105px; color: #DDDDFF; font-family: Calibri,Arial;">}</span>
+
+</td>
+</tr>
+<tr height="24"><td><hr style="border-top:1px solid #FFFFFF; border-bottom: 1px dotted #333333;"></td></tr>
+</table>
+
+<h3>How To Find My IP Address <font color="#666666">|</font> Thank you for visiting!</h3>
+www . how to find my ip address . com is &copy; BNK Invest Inc.  All rights reserved.
+
+</div></center>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-793083-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>

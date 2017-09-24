@@ -1,0 +1,311 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+	"http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML lang="en">
+
+<HEAD>
+<TITLE>
+What is my IP address - my IP address - whats my IP - MyIpNumber.com
+</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="keywords" CONTENT="What is my IP address, my IP address, whatsmyip, whatismyip, MyIpNumber.com">
+<META NAME="description" CONTENT="What is my IP address? MyIpNumber.com finds your IP address and gives information on IP addresses and numbers, DNS, and related technology.">
+<META NAME="Author" CONTENT="MyIpNumber.com What is my IP address">
+<META NAME="Copyright" CONTENT="&copy; 1999-2017&nbsp; MyIpNumber.com What is my IP address">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<LINK rel='stylesheet' type='text/css' href='/visual.css'>
+<LINK rel='stylesheet' type='text/css' href='/responsive.css'>
+
+<script language=javascript type="text/javascript">
+<!--
+
+/*
+miclosed: mouseover == miopen
+		  click == mistickopen
+miopen:   mouseout == miclosed
+		  click == mistickopen
+mistickopen: click == mistickclosed
+			 mouseout == miclosed
+mistickclosed: click == mistickopen
+			 mouseout == miclosed
+
+miclosed: mouseover&!touch == miopen
+		  click == miopen
+miopen: mouseout == miclosed
+		click == miclosed
+*/
+
+// Get named HTML object
+function GetObject(name)
+{
+	var o=null;
+	if(document.getElementById)
+		o=document.getElementById(name);
+	else if(document.all)
+		o=document.all.item(name);
+	else if(document.layers)
+		o=document.layers[name];
+	return o;
+}
+
+var istouchdevice=("ontouchstart" in document.documentElement);
+
+function mover(itm, ovr)
+{
+	var o=GetObject("mitm"+itm);
+	if (ovr && !istouchdevice && o.className=="miclosed")
+		o.className="miopen";
+	else if (!ovr && !istouchdevice && o.className=="miopen")
+		o.className="miclosed";
+/*
+	if (ovr && o.className=="miclosed")
+		o.className="miopen";
+	else if (!ovr && o.className=="miopen")
+		o.className="miclosed";
+*/
+}
+
+function mclick(itm)
+{
+	var o=GetObject("mitm"+itm);
+	if (o.className=="miclosed")
+		o.className="miopen";
+	else
+		o.className="miclosed";
+/*
+	if (o.className=="miclosed" || o.className=="miopen" || o.className=="mistickclosed")
+		o.className="mistickopen";
+	else if (o.className=="mistickopen")
+		o.className="mistickclosed";
+*/
+}
+-->
+</script></HEAD>
+
+<BODY  LEFTMARGIN="10" TOPMARGIN="10" MARGINWIDTH="10" MARGINHEIGHT="10">
+
+<!-- The top bar with logo and title -->
+
+<DIV id="topbar">
+<DIV id="topright">
+<DIV id="socialmediabuttons" style="float:right; margin:0px; xwidth:400px; height:50px; padding:0px;">
+<!-- AddThis Button BEGIN -->
+<table cellpadding="2">
+<tr>
+<td><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<td><a class="addthis_button_tweet"></a></td>
+</tr><tr>
+<td><a class="addthis_button_google_plusone" g:plusone:size="medium"></td>
+<td><a class="addthis_counter addthis_pill_style"></a></td></tr>
+</table>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fd5fb8f3ab1b3a9"></script>
+<!-- AddThis Button END -->
+</DIV>
+</DIV>
+<DIV id="title">
+<H1><A href="/">My IP Number</A></H1>
+<BR><H2>How do I find my IP address?</H2>
+</DIV>
+<DIV id="logo"></DIV>
+</DIV>
+
+
+
+
+
+<DIV id="sitebody">
+
+<!-- The site menu and small advert -->
+<DIV id="menu">
+<DIV id="menugrad"></DIV>
+<DIV id="menugrad2"></DIV>
+<SPAN class="menu2">
+<UL><LI ><A href='/'>Home</A></LI><LI id='menusel'><DIV></DIV><A href='my-ip-address.asp'>My IP Address</A></LI><LI ><A href='ip-locator.asp'>IP Locator</A></LI><LI ><A href='vpn.asp'>VPNs</A></LI><LI ><A href='about.asp'>About</A></LI><LI id='mitm0' class='miclosed' onmouseover='javascript:mover(0,true)' onmouseout='javascript:mover(0,false)'><SPAN onclick='javascript:mclick(0)'>Links <FONT size='1'>&#x25BC;</FONT></SPAN><UL><LI ><A href='http://www.combinationlock.com/' target='_blank'>Combination&nbsp;Lock</A></LI><LI ><A href='http://www.dicesimulator.com/' target='_blank'>Dice&nbsp;Simulator</A></LI><LI ><A href='http://www.googolplexian.com/' target='_blank'>Googolplexian</A></LI></UL></LI></UL>
+</SPAN>
+</DIV>
+
+<!-- The banner advert -->
+
+<DIV id="banneradouter">
+<DIV id="bannerad">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MyIPNumber Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7472547808115475"
+     data-ad-slot="7094854141"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</DIV>
+</DIV>
+
+
+<DIV id="maintext">
+	<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="4">
+<TR>
+<TD>
+<H2>What is my IP Address?</H2>
+<P>
+The IP Address of this machine is:
+</P>
+<P align="center"><FONT size="7" color="#D00000"><B>
+201.209.86.139
+</B></FONT></P>
+
+<P>
+This address can also be represented as <font size="3" color="#D00000"><b>3587266187</b></font> (32 bit decimal number)
+or <font size="3" color="#D00000"><b>0xD5D1568B</b></font> (32 bit hexadecimal number).
+</P>
+
+<P>
+(NB - if you are part of an internal network then this is the IP address of your local server, the
+machine which is connected to the external internet.)
+</P>
+<H2>What is an IP Address?</H2>
+<P>
+'IP' (Internet Protocol) is the method used for sending and receiving information 
+over the Internet. Any device that is required to communicate over the Internet is
+assigned a 32-bit number, its IP address, which uniquely identifies it to other devices.
+The IP address is usually written as a set of four numbers in the range 0-255 separated by dots, 
+although it can also be shown as one big number in decimal or hexadecimal.
+</P>
+<A name="how"></A>
+<H2>How are IP addresses used?</H2>
+<P>
+Whenever data is to be transmitted to a particular machine, it is broken up into chunks, or
+<EM>packets</EM>, each of which is tagged with the IP address of the destination machine. Each packet
+is transmitted separately, and will not necessarily follow the same route through the network
+as the other packets that make up the whole message. It is quite possible that the packets will
+arrive out of sequence, or with errors. Some may not even arrive at all. 
+</P>
+<P>
+On receipt the packets are automatically reassembled into the correct sequence so as to 
+reconstruct the original data; 
+if there are any errors or missing packets then they are requested to be sent again.
+</P>
+<A name="private"></A>
+<H2>Private IP Addresses</H2>
+<P>
+Three ranges of IP numbers are reserved for local or private IP addresses - these are addresses which
+identify a device on a local network which is isolated from the internet by a router with Network Address
+Translation. 
+</P>
+<P>
+The three ranges are:<BR>
+10.xxx.xxx.xxx<BR>
+172.(16-31).xxx.xxx<BR>
+192.168.xxx.xxx
+</P>
+<P>
+These addresses are never used on the public internet. Typically, behind a NAT device, a sub-range from
+one of these ranges will be used to identify devices on a local network.
+</P>
+<A name="assign"></A>
+<H2>How are IP Addresses Assigned?</H2>
+<P>IP Addresses are hierarchical in nature - that is to say, one part of the IP address will specify
+broadly in which region of the network the destination can be found, with subsequent parts of the
+address providing more specific information about the location of the target device within that 
+region. Consequently the allocation of IP addresses needs to be carefully managed, in order to 
+maintain this hierarchy.
+</P>
+<P>
+The allocation is overseen by the <EM>Internet Assigned Numbers Authority</EM> (IANA) and <EM>Regional
+Internet Registries</EM> (RIRs), who maintain a publicly accessible database called WHOIS, relating
+IP Numbers to locations in the network. 
+</P>
+<A name="ipv6"></A>
+<H2>What is IPv6?</H2>
+<P>
+An IP address as described above is made up of four bytes, in a format known as IPv4. Four bytes can
+be used to represent over four billion different individual addresses, which might seem sufficient to 
+uniquely label every computer in the world - but with more and more devices being connected to the internet
+the number of IPv4 addresses which are free to be allocated is dwindling.
+</P>
+<P>
+IPv6 mitigates this problem by using sixteen bytes instead of four, which allows approximately 3.4x10<SUP>38</SUP> unique addresses
+to be represented. In addition, the standard solves various other technical problems that IPv4 suffers from.
+</P>
+<P>
+Unfortunately IPv6 is not interoperable with IPv4, so in order to use it all the internet hardware between IPv6
+nodes will need to be updated to be able to use IPv6. Until that happens an IPv6 network is effectively 
+invisible to IPv4 systems, and vice versa, although it is technically possible to implement converter nodes that embed one protocol 
+within the other to allow connections between the different networks.
+</P>
+<H2>Who owns an IP Address?</H2>
+<P>
+Whilst you may not be able to track an owner of an IP address, you can usually find out its location.
+If you know the IP address, enter it on this free tool: <A href="/ip-locator.asp">ip lookup</A> - also known as
+IP Geolocation - GeoIP.
+</P>
+<H2>Network Address Translation <A href="/#nat">More info</A></H2>
+<H2>What is DNS? <A href="/#dns">DNS Explained</A></H2>
+<H2>Virtual Private Networks <A href="/vpn.asp">VPN information</A></H2>
+</TD>
+</TR>
+</TABLE>
+
+
+
+</DIV>
+
+<!-- The right-hand column advert -->
+
+<DIV id="rightad">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MyIPNumber Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7472547808115475"
+     data-ad-slot="7094854141"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</DIV>
+
+
+</DIV>
+
+<!-- The page footer -->
+
+<DIV id="banner2">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- MyIPNumber Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7472547808115475"
+     data-ad-slot="7094854141"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</DIV>
+
+<DIV id="footer">
+<P>
+<A href="mailto:?subject=www.myipnumber.com &body=Take a look at this site">Tell a friend</A> about MyIpNumber.com&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+<A href="about.asp">About</A> this site&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+<A href="sitemap.asp">Sitemap</A>
+</P>
+</DIV>
+
+
+<!-- The copyright notice -->
+
+<DIV id="copyright">
+Copyright &copy; 2017 MyIpNumber.com
+</DIV>
+
+
+
+</BODY>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</HTML>

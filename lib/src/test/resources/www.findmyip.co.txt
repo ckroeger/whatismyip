@@ -1,0 +1,555 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <!--<![endif]-->
+<head>
+<meta name="verify-a" value="fac3c90e49ebb9c8b298">
+	<meta name="msvalidate.01" content="3FB74C97DEF741DAAA6B8AA279160B5F" />
+	<meta charset="utf-8">
+	<meta name="DC.title" content="Find My IP | IP Address Information and Software"/>
+	<meta name="geo.region" content="US-GA"/>
+	<meta name="geo.placename" content="Columbus"/>
+	<meta name="geo.position" content="32.460976;-84.987709"/>
+	<meta name="ICBM" content="32.460976, -84.987709"/>
+		<link rel="shortcut icon" href="http://www.findmyip.co/favicon.ico"/>
+	<link rel="apple-touch-icon" href="http://www.findmyip.co/images/find-my-ip-57.png"/>
+	<link rel="apple-touch-icon" sizes="72x72" href="http://www.findmyip.co/images/find-my-ip-72.png"/>
+	<link rel="apple-touch-icon" sizes="114x114" href="http://www.findmyip.co/images/find-my-ip-114.png"/>
+	<link rel="apple-touch-icon" sizes="144x144" href="http://www.findmyip.co/images/find-my-ip-144.png"/>
+	<link rel="stylesheet" href="/museo-slab/museo.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/font-awesome/less/bootstrap.less">
+	<link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
+	<script type="text/javascript">
+		var ffWpThemeUrl = "http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys" //"http://localhost/wiseguys/wp-content/themes/wiseguys";
+	</script>
+	<!--[if lt IE 9]>
+	<link href="http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/jackbox/css/jackbox-ie8.css" rel="stylesheet" type="text/css" />
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<!--[if gt IE 8]><link href="http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/jackbox/css/jackbox-ie9.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<!---<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">--->
+<meta name="viewport" content="width=1024"/>
+
+
+	<style>h2,h3,h4{font-family: 'museo500' !important;}h1{color: #fff !important; font-weight: 300;} 
+#rev_slider_1_1_wrapper{padding: 0 !important;}
+#menu-menu a,p{
+font-family: 'Open Sans', sans-serif !important;
+}
+.current_page_item a{font-weight: 400;}
+i{color: #000; padding: 10px !important;}
+.headerWrapper{background: url(/images/grey-linen.png);}
+.headerContentContainer{text-align: left !important; background-color: transparent !important;}
+.page-description,h4{color: #AB1A25;}
+.pageTitle{max-width: 500px; text-shadow: 0 0 10px #000; padding-left: 10px;}
+#ip-contain{font-weight: bold; font-family: 'Open Sans'; color:#fff; max-width: 50%; text-shadow: 0 0 3px #000; padding-left: 10px;}
+#ad-contain{float: right; width: 300px; height: 250px; margin: 25px 0;  box-shadow: 0 0 10px #000;} p{font-size: 14px !important; } h3{font-size: 24px !important;}
+#mapholder{text-align:center; z-index:0; position: absolute; width: 500px; max-width: 50%; height: 325px; opacity:0.2; filter:alpha(opacity=20); overflow: hidden;}
+footer .arrow-down {left:0 !important;margin: 0 auto;}
+.footerTopWrapper{margin: 0 auto;}
+@media only screen and (max-width: 767px) {
+#mapholder{ max-width: 100%; width: 100%;}
+}
+@media only screen and (max-width: 480px) {
+#ad-contain{float: none; margin:0 auto;}
+.pageTitle{ width: 100%; margin:5px auto;}
+#ip-contain{width: 100%;  max-width: 95%; margin:5px auto;}
+.headerContentContainer{width: 300px !important;}
+.button{ float: none; margin:0 auto;}
+}
+</style>
+
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.15 - http://yoast.com/wordpress/seo/ -->
+<title>Find My IP ™ | IP Address Information and Software</title>
+<meta name="robots" content="noodp"/>
+<meta name="description" content="Find My IP is the ultimate resource for whats my IP, show my IP address location, IP address lookup, and IP address software online."/>
+<meta name="keywords" content="find my ip, find my ip address, what is my ip, whats my ip address"/>
+<link rel="canonical" href="http://www.findmyip.co/" />
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Find My IP ™ | IP Address Information and Software"/>
+<meta property="og:description" content="Find My IP is the ultimate resource for whats my IP, show my IP address location, IP address lookup, and IP address software online."/>
+<meta property="og:url" content="http://www.findmyip.co/"/>
+<meta property="og:site_name" content="Find My IP ™"/>
+<meta property="article:publisher" content="https://www.facebook.com/FindMyIP"/>
+<meta property="og:image" content="http://www.findmyip.co/images/find-my-ip-114.png"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@Find_ip"/>
+<meta name="twitter:domain" content="Find My IP ™"/>
+<meta name="twitter:creator" content="@Find_ip"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Find My IP ™ &raquo; Feed" href="http://www.findmyip.co/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Find My IP ™ &raquo; Comments Feed" href="http://www.findmyip.co/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Find My IP ™ &raquo; Find My IP Comments Feed" href="http://www.findmyip.co/find-my-ip/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.findmyip.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.6"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='http://www.findmyip.co/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.findmyip.co/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='http://www.findmyip.co/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://www.findmyip.co/wp-content/plugins/revslider/rs-plugin/css/captions.css?ver=4.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wg-base-css'  href='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/css/base.css?ver=4.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wg-skeleton-css'  href='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/css/skeleton.css?ver=4.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wg-jakcbox_hovers-css'  href='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/jackbox/css/jackbox_hovers.css?ver=4.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wg-jackbox-css'  href='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/jackbox/css/jackbox.css?ver=4.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wg-layout-css'  href='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/css/layout.css?ver=4.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wg-colors-css'  href='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/css/colors/darkredTheme.css?ver=4.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='http://www.findmyip.co/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.findmyip.co/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ws-plugin--s2member-css'  href='http://www.findmyip.co/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_css=1&#038;qcABC=1&#038;ver=130816-1437233322' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.findmyip.co/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/plugins/solvemedia/puzzle_reload.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/plugins/solvemedia/solvemedia_comment_reply.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js?ver=4.7.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"http:\/\/www.findmyip.co\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-admin/js/password-strength-meter.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_js_w_globals=1&#038;qcABC=1&#038;ver=130816-1437233322'></script>
+<link rel='https://api.w.org/' href='http://www.findmyip.co/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.findmyip.co/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.findmyip.co/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.6" />
+<link rel='shortlink' href='http://wp.me/P3TXuj-4' />
+<link rel="alternate" type="application/json+oembed" href="http://www.findmyip.co/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.findmyip.co%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.findmyip.co/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.findmyip.co%2F&#038;format=xml" />
+<style>#adcopy-puzzle-image img {width: 100%; height: 100%}</style>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel='dns-prefetch' href='//widgets.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link href='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/css/fonts_template.css' rel='stylesheet' type='text/css'>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Find My IP ™" />
+<meta property="og:description" content="Whats My IP Address" />
+<meta property="og:url" content="http://www.findmyip.co/" />
+<meta property="og:site_name" content="Find My IP ™" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:card" content="summary" />
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":0};</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid="></script>	
+</head>
+<body class="home page-template page-template-page page-template-page-php page page-id-4 fullwidth">
+
+
+	<div class="headerBg"></div>
+	
+
+	<!-- Primary Page Layout
+	================================================== -->
+
+		<section class="headerWrapper">
+		<header class="sixteen columns">
+		<a href="http://www.findmyip.co"><div class="logo"><img src="http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/images/icons/darkred/logo.png" alt="logo" /></div></a>		
+				<nav class="mainmenu">
+			
+				<div id="smoothmenu" class="ddsmoothmenu">
+					<ul id="menu-menu" class="menu"><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-18" ><a href="http://www.findmyip.co/" title="Find My IP Address">Find My IP</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16" ><a href="http://www.findmyip.co/ip-tools/" title="IP Address Tools">Tools</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14" ><a href="http://www.findmyip.co/information/" title="IP Address Information">Information</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15" ><a href="http://www.findmyip.co/ip-address-software/" title="IP Address Software">Software</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25" ><a href="http://www.findmyip.co/api-options/" title="IP Address API">API</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22" ><a href="http://www.findmyip.co/blog/" title="IP Address Blog">Blog</a></li>
+</ul>					
+					<br style="clear: left" />
+				</div><!-- end ddsmoothmenu -->
+				
+				<!-- Responsive Menu
+				================================================== -->
+				
+				<form action="#" method="post">
+					<select>
+						<option value="">Menu</option>
+					</select>
+				</form>
+				
+			</nav>
+			
+			<span id="menuShadow"></span>
+			<span id="submenuArrow"><span class="arrow-up"></span></span>
+			
+		</header>
+				<!-- Header content
+        ================================================== -->
+        <!-- For data-layout, you can choose between a color background like that "#aaa", "blur" or "image" -->
+                <section id="noslider" class="sixteen columns headerContent" data-layout="blur">
+        
+           
+            
+            <div class="headerContentContainer">
+				
+				<div id="ad-contain">
+					<script type="text/javascript"><!--
+					google_ad_client = "ca-pub-4831738941845417";
+					/* FindMyIP Box */
+					google_ad_slot = "8780034746";
+					google_ad_width = 300;
+					google_ad_height = 250;
+					//-->
+					</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				</div>
+				<div id="mapholder"></div>
+               <h1 class="pageTitle">
+               	Find My IP               	</h1>
+				<div id="ip-contain">
+				
+				Your IP Address: 201.209.86.139,
+				No Proxy Detected 				<br/>
+				User Agent: Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0					<div id="address"></div> <div id="demo"></div> 
+					<p><em>Note: You must click allow in the browser to determine your location.</em></p>
+				</div>
+				<script type="text/javascript" src="/tools/location.js"></script>
+				 
+               <div class="breadCrumbs">
+               
+               </div>
+            </div>
+            <!--- /templates/description/ --->
+        </section>
+        
+						</section>
+		<div class="container "  data-backgroundType="color" data-backgroundImage="#dddddd"  >        <section class="mainContent">    
+    	
+<div class="contentBgFull"></div>
+        
+        <!-- Tag Line
+        ================================================== -->
+        <section id="tagLine" class="sixteen columns row">
+            <h2 class="page-description">
+            	The #1 resource for IP address information.            </h2>
+
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- FindMyIP Text Unit Large -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:15px"
+     data-ad-client="ca-pub-4831738941845417"
+     data-ad-slot="2067553942"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+        </section>
+        <div id="tagLineShadow" class="sixteen columns"></div>
+		
+                   
+        <section class="sixteen columns offset-by-one">
+        <div class="template_builder_content">
+<div class="row">
+<div class="threefourth col">
+<div class="pagebuilder-component-text">
+<h3>"Whats My IP Address?"</h3>
+<p>Ever ask yourself, "Whats my IP address"? FindMyIP shows your IP address on every page. In addition to your IP address, every page checks to see if you're behind a proxy server, the type of browser you are using, as well as your location information.</p>
+
+<p>FindMyIP is not only a place to find your IP address. Our website also has IP address Tools that can be accessed directly from your Internet browser. Wait... there's more. We also have an API that can be accessed from your own custom application, an information section for IP address information, and a frequently updated blog with technology-related news and current events.</p>
+
+
+<h3>Free API Access</h3>
+<p>We offer free IP address automation for every registered member. Registration is free and takes less than 5 minutes. Our API includes easy-to-use URLs that can be accessed from anywhere in the world. Visit the FindMyIP API Options for more information. API access also includes extensive documentation and code samples for the most popular programming languages. This means you can get the IP address information you need fast.</p>
+
+<br>
+<h4 style="text-align: center; font-size: 20px;"><a title="API Membership Options" href="/api-options/">View API Membership Options <i class="icon-hand-right"></i></a></h4>
+<br>
+</div>
+<div class="divider" style="margin-bottom: 30px;"></div>
+<div class="pagebuilder-component-text">
+
+<h3>What Is an IP Address?</h3>
+
+<p>IP addresses are simply numbers used by electronic devices when connected to the Internet. IP stands for Internet Protocol, which is like a language spoken by your computer to the rest of the World Wide Web. An IP address is similar to your phone number. If you don't know the number of the person you're trying to call, you can't get in touch with them. Just the same, without IP addresses, no devices could communicate with one another.</p>
+
+<p>An IP is usually represented by a number. This number is broken into 4 parts which are separated by periods. When shown like this, the number format is referred to as "dotted decimal notation:</p>
+
+<br>
+<p style="text-align: center; font-size: 24px !important; color: #555;">Example: <span style="color: #ab1a25;">192.168.1.1</span></p>
+<br>
+
+<p>Each part of the address represents 1 byte of data, for a total of 4 bytes. Of course, this is only for IPv4 addresses. IPv6 addresses are represented in a slightly different format, but serve the same purpose. For more information about how IP addresses and networks function, browse the topics on the <a title="IP address information" href="/information/">IP address information page</a>.</p>
+
+<p>Because IP addresses are unique, they can be used to identify nearly any person connected to the Internet.</p>
+
+</div>
+<div class="divider" style="margin-bottom: 30px;"></div>
+<div class="pagebuilder-component-text">
+<h3>IP Address Tools</h3>
+<p>FindMyIP online tools provide Internet users with valuable information about their IP. The tools can be used directly from your web browser, such as Internet Explorer, Google Chrome, Safari, and Mozilla Firefox. Each tools can be accessed from any electronic device, such as laptops, desktops, tablets, and smart phones. Some of the tools available include:</p>
+
+</div>
+<article>
+<ul class="check">
+	<li><strong><a title="IP Address Location" href="http://www.findmyip.co/ip-tools/ip-address-location/">IP Address Lookup</a>.</strong> The lookup tool is also know as IP locator, IP geolocation, or IP address location. This tool helps you find the physical location of any IP connected to the Internet.</li>
+	<li><strong><a title="WhoIs Lookup" href="http://www.findmyip.co/ip-tools/whois/">IP WhoIs Lookup</a>.</strong> The WhoIs lookup shows you information about a domain. You can find the owner of a domain as well as their contact information.</li>
+	<li><strong><a title="Ping" href="http://www.findmyip.co/ip-tools/ping/">Ping Online</a>.</strong> Ping any website or IP address directly from your browser. The FindMyIP Tools uses ICMP to perform real-time ping echo requests.</li>
+	<li><strong><a title="DNS" href="http://www.findmyip.co/information/dns/">DNS Lookup</a>.</strong> The DNS lookup tool provides you the IP's that belong to a domain name. The DNS lookup tool is great for troubleshooting issues with your name servers.</li>
+	<li><strong><a title="Reverse DNS Lookup" href="http://www.findmyip.co/ip-tools/reverse-dns/">Reverse DNS Lookup</a>.</strong> IP addresses are resolved to domain names or host names. Also know as rDNS, or host name lookup, gives you host name information about an IP.</li>
+	<li><strong><a title="Email Trace" href="http://www.findmyip.co/ip-tools/email-trace/">Email Trace</a>.</strong> The email trace allows you to input email source to determine the location and server that sent it.</li>
+	<li><strong><a title="TraceRoute" href="http://www.findmyip.co/ip-tools/traceroute/">TraceRoute</a>.</strong> Follow the packets sent from your computer or mobile device as they travel across the World Wide Web.</li>
+	<li><strong><a title="IP Blacklist Check" href="http://www.findmyip.co/ip-tools/blacklist-check/">IP Blacklist Check</a>.</strong> See if your domain has been flagged for SPAM. Check your IP or domain name against the largest collection of DNSBLs and SURBLs on the Internet.</li>
+	<li><strong><a title="Server Headers" href="http://www.findmyip.co/ip-tools/server-headers/">Server Headers Check</a>.</strong> View the HTTP header information that's being sent from your website. Use the headers check to find out if your redirects are working, view cache configurations, or simply to get a bit of reassurance of your web server's functionality.</li>
+</ul>
+</article>
+<div class="pagebuilder-component-text">
+
+<p>All of the IP tools on this website are available free of charge. There are no hidden costs, fees, or other gimmicks. The tools are frequently updated to keep up with current technology. We are constantly adding tools to our website, so check back frequently if you can't find what you need. Or, if you would like, email us at <a title="Email FindMyIP" href="mailto:socialmedia@findmyip.co">socialmedia@findmyip.co</a> or <a title="Contact FindMyIP" href="/contact-us/">Contact Us to submit a request</a>.</p>
+<br>
+<h4 style="text-align: center; font-size: 20px;"><a title="IP Address Tools" href="/ip-tools/">Use Free IP Address Tools <i class="icon-hand-right"></i></a></h4>
+<br>
+</div>
+
+<div class="divider" style="margin-bottom: 30px;"></div>
+<div class="pagebuilder-component-text">
+<h3>IP Address Information</h3>
+<p>This website contains a large collection of information about IP addresses and the Internet. Whether you are new to the world of IP addresses or an experienced networking professional, you will be sure to find what you are looking for. Our IP address information section contains information about:</p>
+<ul class="check">
+	<li><strong>Proxy IP Addresses and Proxy Servers</strong></li>
+	<li><strong>IP Address Command-Line Utilities for Windows and Linux</strong></li>
+	<li><strong>Static and Dynamic IP Addressing</strong></li>
+	<li><strong>Quick Reference for Networking Acronyms</strong></li>
+	<li><strong>Internet Security Information</strong></li>
+	<li><strong>MAC Addressing</strong></li>
+	<li><strong>Mobile IPs and Electronic Identifiers</strong></li>
+	<li><strong>And much MORE!</strong></li>
+</ul>
+</div>
+<h4 style="text-align: center; font-size: 20px;"><a title="IP Address Information" href="/information/">Get IP Address Information <i class="icon-hand-right"></i></a></h4>
+<div class="divider" style="margin-bottom: 30px;"></div>
+<div class="pagebuilder-component-text">
+<h3>IP Address Software</h3>
+<p>We offer two different pieces of software to our users. Our IP Trax software is an IP based tracker software for your laptop or desktop computer. The IP Trax software notifies you in the event that your IP address changes, making it easy to identify DNS updates or theft. Our IP Tools Remote software allows user to access our web-based tools from a platform dependent application. The IP Tools Remote is available for nearly every device, including PC's, Macs, tablet, and cell phone devices.</p>
+
+<br>
+<h4 style="text-align: center; font-size: 20px;"><a title="Get IP Address Software" href="/ip-address-software/">Get IP Address Software <i class="icon-hand-right"></i></a></h4>
+<br>
+
+<p>Registered members who sign up for a Deluxe Membership get free access to IP address tools and IP address software.</p>
+
+</div>
+<div class="clear"></div>
+</div>
+<div class="onefourth last  col">
+<div class="sectionHeader row">
+<div class="sectionHeadingWrap"><span class="sectionHeading">Connect with Us</span></div>
+</div>
+<article class="row">
+<ul class="socialIcons">
+	<li class="facebook"><a title="Find My IP Address on Facebook" href="https://www.facebook.com/FindMyIP">Facebook</a></li>
+	<li class="twitter"><a title="Find My IP Address on Twitter" href="https://www.twitter.com/find_ip">Twitter</a></li>
+	<li class="googleplus"><a title="Find My IP Address on Google+" href="https://plus.google.com/u/0/b/100188356269716544678/100188356269716544678/posts">Google plus</a></li>
+</ul>
+</article>
+<div class="divider" style="margin-bottom: 30px;"></div>
+<div class="sectionHeader row">
+<div class="sectionHeadingWrap"><span class="sectionHeading">Advertisements</span></div>
+</div>
+<div class="pagebuilder-component-text">
+<p style="text-align: center;"><script type="text/javascript">// <![CDATA[
+google_ad_client = "ca-pub-4831738941845417"; /* FindMyIP Skyscraper */ google_ad_slot = "2733501146"; google_ad_width = 160; google_ad_height = 600;
+// ]]&gt;</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script><script type="text/javascript">// <![CDATA[
+google_ad_client = "ca-pub-4831738941845417"; /* FindMyIP Skyscraper */ google_ad_slot = "2733501146"; google_ad_width = 160; google_ad_height = 600;
+// ]]&gt;</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="row"></div>
+<div class="row"></div>
+<div class="clear"></div>
+</div>
+<div class="clearfix"></div>
+<div class="separator large row-fifty"></div>
+<style><!--
+.ds-icons i{color:#fff;position:relative;top:20%;}.ds-icons{border:2px solid #AB1A25;background:#333;display:inline-block;border-radius:50%;height:50px;width:50px;text-align:center; margin-right: 10px; float: left;}h3{vertical-align:middle;} .check li{font-size: 14px !important; line-height: 25px;}
+--></style>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.findmyip.co/" > 
+<div class="clearfix"></div>
+<div class="separator large row-fifty"></div>
+<!-- Pagination
+	================================================== -->
+<section class="pagination clearfix row">
+	<ul>
+	 	</ul>
+
+</section>
+<!-- #pagination -->
+<div class="clearfix row"></div>
+        
+         </section><!-- End // main content -->
+		<div class="clearfix"></div>
+		</section><!-- End // main content -->
+
+<!-- Start footer -->
+
+<footer>
+
+	<div class="footerBgFull"></div>
+	<div class="subFooterBgFull"></div>
+	<div class="arrow-down"></div>
+
+  
+<!-- Top footer
+================================================== -->
+<section class="footerTop sixteen columns">
+
+
+<div class="footerTopWrapper">
+
+  <div class='onefourth aboutFooter'><div id="text-8" class="widget widget_text !!!add_class!!!">			<div class="textwidget"><img src="/images/find-my-ip.png" width="156" height="133" alt="Find My IP Address Logo"/>
+<br>
+</div>
+		</div></div><div class='onefourth aboutFooter'><div id="nav_menu-2" class="widget widget_nav_menu !!!add_class!!!"><h4>Explore FindMyIP</h4><div class="menu-links-container"><ul id="menu-links" class="menu"><li id="menu-item-814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-814"><a href="http://m.findmyip.co">Find My IP Mobile</a></li>
+<li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-626"><a href="http://www.findmyip.co/ip-address-widget/">IP Address Widget</a></li>
+<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627"><a href="http://www.findmyip.co/ip-tools/">IP Address Tools</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://www.findmyip.co/advertisers/">Advertisers</a></li>
+<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://www.findmyip.co/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="http://www.findmyip.co/terms-service/">Terms of Service</a></li>
+<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://www.findmyip.co/site-map/">Site Map</a></li>
+</ul></div></div><div id="text-9" class="widget widget_text !!!add_class!!!">			<div class="textwidget"><a href="http://click.linksynergy.com/fs-bin/click?id=TKUjmuXulxM&offerid=301145.8&type=3&subid=0"  rel="nofollow">PureVPN.com</a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=TKUjmuXulxM&bids=301145.8&type=3&subid=0" rel="nofollow" ></div>
+		</div></div><div class='onefourth aboutFooter'><div id="nav_menu-4" class="widget widget_nav_menu !!!add_class!!!"><h4>Members</h4><div class="menu-members-container"><ul id="menu-members" class="menu"><li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a href="http://www.findmyip.co/login/">Login</a></li>
+<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a href="http://www.findmyip.co/activate/">Activate</a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a href="http://www.findmyip.co/register/">Register</a></li>
+<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="http://www.findmyip.co/dashboard/">Dashboard</a></li>
+</ul></div></div></div><div class='onefourth aboutFooter'><div id="fftwitter-2" class="widget ffTwitter "><h4>LATEST TWEETS</h4><div class="tweets"><ul class="tweet_list"><li><span class="tweet_avatar" style="visibility: visible; background-position: 0px 3px;"></span><span class="tweet_time"><a href="http://twitter.com/find_ip/status/456064743812628480" title="view tweet on twitter">3 years ago</a></span><span class="tweet_join"></span><span class="tweet_text">RT @4sysops: Is Heartbleed a bug or a backdoor? Is open source inherently insecure? <a href="http://t.co/Q6RwwN2Oke">http://t.co/Q6RwwN2Oke</a></span></li><li><span class="tweet_avatar" style="visibility: visible; background-position: 0px 3px;"></span><span class="tweet_time"><a href="http://twitter.com/find_ip/status/456064709503254528" title="view tweet on twitter">3 years ago</a></span><span class="tweet_join"></span><span class="tweet_text">RT @RotateiP: Through IP rotation, you can browse the Internet safely and anonymously - <a href="http://t.co/zxV4unH4Ry">http://t.co/zxV4unH4Ry</a></span></li></ul></div></div><div id="search-3" class="widget widget_search !!!add_class!!!"><form method="get" class="searchform" action="http://www.findmyip.co">
+  <input class="searchfield" type="text" name="s" value="" placeholder="Search Blog..." />
+  <input class="searchbutton" type="button" name="Submit"  value=" " />
+  <div class="clear"></div>
+</form></div></div></div>
+
+
+</section><!-- End // Footer top -->
+
+<!-- Footer bottom
+================================================== -->
+<section class="subFooter">
+
+  <ul id="menu-menu-1" class="footerMenu">
+
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-18" ><a href="http://www.findmyip.co/">FIND MY IP</a>
+</li>
+
+
+
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16" ><a href="http://www.findmyip.co/ip-tools/">TOOLS</a>
+</li>
+
+
+
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14" ><a href="http://www.findmyip.co/information/">INFORMATION</a>
+</li>
+
+
+
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15" ><a href="http://www.findmyip.co/ip-address-software/">SOFTWARE</a>
+</li>
+
+
+
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25" ><a href="http://www.findmyip.co/api-options/">API</a>
+</li>
+
+
+
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22" ><a href="http://www.findmyip.co/blog/">BLOG</a>
+</li>
+
+</ul>
+  <span class="copyright">Copyright &copy; Find My IP 2013. Website Built by <a rel="nofollow" href="http://www.jeremias.me/" title="Website Design by Jeremias">Jeremias</a>. </span>
+
+</section><!-- End // Footer bottom -->
+
+</footer><!-- /End footer -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37507941-3']);
+  _gaq.push(['_setDomainName', 'findmyip.co']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+<!-- End Document
+================================================== -->
+<link rel='stylesheet' id='solvemedia_stylesheet-css'  href='http://www.findmyip.co/wp-content/plugins/solvemedia/solvemedia.css?ver=4.7.6' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201738'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/menu.adjustment.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/jacked.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/jquery.easing.1.3.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/slackBlur.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/ddsmoothmenu.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/jquery.touchSwipe.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/jquery.isotope.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/jackbox/js/libs/jquery.address-1.5.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/jackbox/js/jackbox-swipe.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/jackbox/js/jackbox.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/jackbox/js/libs/StackBlur.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/tipsy/jquery.tipsy.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/jquery.flexslider.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/jquery.fitvids.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/rs-plugin/js/jquery.themepunch.plugins.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/sharing.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-content/themes/wise-guys/wiseguys/js/wiseguys.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://www.findmyip.co/wp-includes/js/wp-embed.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201738.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'57665723',post:'4',tz:'0',srv:'www.findmyip.co'} ]);
+	_stq.push([ 'clickTrackerInit', '57665723', '4' ]);
+</script>
+</body>
+</html>

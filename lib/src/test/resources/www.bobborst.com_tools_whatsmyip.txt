@@ -1,0 +1,735 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<title>What's My IP Address?</title>
+<meta name="description" content="Displays your external IP address and provides instructions on how to find your internal IP address.">
+<!--[if IE]><![endif]-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+<!-- link rel="apple-touch-icon" href="https://d1pop96i45smdf.cloudfront.net/images/2014/icons/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76×76" href="https://d1pop96i45smdf.cloudfront.net/images/2014/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="120×120" href="https://d1pop96i45smdf.cloudfront.net/images/2014/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152×152" href="https://d1pop96i45smdf.cloudfront.net/images/2014/icons/apple-touch-icon-152x152.png" -->
+
+
+<meta name="application-name" content="bobborst.com">
+<meta name="msapplication-TileColor" content="#00539F">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#00539f">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+
+	<link href="/inc/styles/fontawesome.3.2.1.min.css" rel="stylesheet" type='text/css'>
+	<!-- link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet"  -->
+
+
+<link rel="stylesheet" href="https://d1pop96i45smdf.cloudfront.net/inc/styles/styles.min.css?201701161830">
+<script type="text/javascript" src="https://d1pop96i45smdf.cloudfront.net/inc/js/respond-min.js?20140224"></script>
+
+
+
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?20140224"></script>
+    <!-- script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?20140224"></script -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js?20140224"></script>
+
+    <script type="text/javascript" src="https://d1pop96i45smdf.cloudfront.net/inc/js/jquery.scrollTo.min.js"></script>
+
+	<!-- script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js?20140605"></script  -->
+    <!-- script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js?20140224"></script -->
+
+<script type="text/javascript" src="https://d1pop96i45smdf.cloudfront.net/inc/js/functions.min.js?20151225CanYouBelieveIWasCodingOnChristmas"></script>
+
+
+
+		
+			
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4873917328097744",
+    enable_page_level_ads: true
+  });
+</script>
+
+
+		
+			
+<!-- link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css' -->
+
+<!-- link rel="shortcut icon" href="https://d1pop96i45smdf.cloudfront.net/images/2014/icons/favicon.ico?20140801a" type="image/x-icon"> 
+<link rel="icon" href="https://d1pop96i45smdf.cloudfront.net/images/2014/icons/32x32-rounded.png?20140801" type="image/png"  --> 
+<!--[if IE]>
+<meta http-equiv="imagetoolbar" content="no">
+<![endif]-->
+<!-- meta name="review_date" content="9/24/2017 2:24:53 AM"  -->
+<meta name="format-detection" content="telephone=no">
+<meta property="fb:app_id" content="159788824088902">
+<meta name="robots" content="noydir"> 
+<meta name="robots" content="noodp">
+
+<link rel="canonical" href="http://www.bobborst.com/tools/whatsmyip/">
+
+<script  type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+
+<style type="text/css">
+/*
+.fb_iframe_widget,
+.fb_iframe_widget span,
+.fb_iframe_widget span iframe[style] {
+  min-width: 100% !important;
+  width: 100% !important;
+}
+
+.rkb{
+font-size: 2em;
+}
+*/
+
+
+
+
+
+#logo a {
+	font-family: Arista, roboto,Verdana,Geneva,Tahoma,sans-serif;
+	    line-height: 1;
+		    font-size: 3.5em;
+	
+}
+
+@media (max-width: 620px) {
+	#logo{
+		    margin-bottom: 1em;
+	}
+}
+
+
+
+</style>
+
+
+
+
+<style type="text/css">
+.notice {
+	background-color: #000; color: #fff; padding: 20px; font-size: 1.5em; font-family: "times new roman", serif;
+}
+</style>
+
+
+<!--[if lte IE 6]>
+<script  type="text/javascript" src="https://d1pop96i45smdf.cloudfront.net/inc/js/pngfix.js"></script>
+<link rel="stylesheet" type="text/css" href="https://d1pop96i45smdf.cloudfront.net/inc/styles/2013/ie5-6.css?20131127f">
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="https://d1pop96i45smdf.cloudfront.net/inc/styles/2013/ie7.css?201310151236">
+<link rel="stylesheet" type="text/css" href="https://d1pop96i45smdf.cloudfront.net/inc/styles/font-awesome-ie7.min.css?2013110">
+<![endif]-->
+
+
+
+
+<!--[if lte IE 8]>
+<style type="text/css">
+#formnav {display: none;}
+#nav.main a, #nav.main a:hover, #nav.main a.active, #nav li span, #search-form-head input[type="text"], ul.mycon li, a.button, a.buttoncta  {
+	position: relative;
+behavior: url('http://www.bobborst.com/inc/styles/PIE.htc');
+}
+
+</style>
+
+<link rel="stylesheet" type="text/css" href="/inc/styles/2013/ie8.css?201310151236">
+
+
+
+
+	<style type="text/css">
+	/*
+	
+	#header, #footer  {filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#11164d', endColorstr='#7db9e8',GradientType=0 );}
+	
+	*/
+	</style>
+
+
+
+<style type="text/css">
+#header, #footer {
+	background-image: none!important;
+	}
+#logo h1 a:hover, #nav.main a:hover, #nav.main a.active {
+	border-bottom: 1px solid #fff;
+
+}
+</style>
+
+
+<link href="https://d1pop96i45smdf.cloudfront.net/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/inc/js/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/inc/js/respond.proxy.js"></script>
+<script type="text/javascript">
+	$( document ).ready(function() {
+	$('iframe').attr("frameBorder", 0);
+});
+</script>
+
+<![endif]-->
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+	
+
+	
+<meta property="og:title" content="What's My IP Address?">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.bobborst.com/tools/whatsmyip/">
+<meta property="og:site_name" content="Bob Borst's Home of Pop Culture">
+<meta property="fb:admins" content="552306125">
+
+<!-- script src="https://d1pop96i45smdf.cloudfront.net/inc/js/xmlhttp.js?20131104" type="text/javascript">
+	xmlhttp=false
+</script -->
+
+
+
+
+
+<script  type="text/javascript">
+  var _qevents = _qevents || [];
+
+  (function() {
+   var elem = document.createElement('script');
+
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script>
+
+<style type="text/css">
+ul.l2 {
+}
+</style>
+</head>
+
+
+
+<body id="thebody" >
+<div id="skip"><a href="#content">Skip to Main Content</a></div>
+<div id="fb-root"></div>
+
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=159788824088902";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><div id="lights"></div><a id="top"></a>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1636797-1']);
+  _gaq.push(['_trackPageview']);
+
+ /* (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+   // ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+  */ 
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+</script>
+
+
+
+
+<header>
+		
+
+<div id="header" class="gradient">
+
+	<div class="wrapper">
+	<div id="logo">
+
+		<a href="/">bobborst.com</a>
+
+		<!-- h1><a href="/">bobborst.com</a></h1  -->
+
+	</div>
+
+				<div class="social">
+				
+
+<!-- div style="max-width: 200px" id="search-form-head">				
+<script>
+  (function() {
+    var cx = '017878820792890662158:s3q6byyxzgs';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only resultsUrl="http://www.bobborst.com/cse/"></gcse:searchbox-only>
+</div -->
+
+
+
+				
+				
+					<form method="get" action="/search/" id="search-form-head" role="search">
+                    <input type="image" name="xsubmit"  src="https://d1pop96i45smdf.cloudfront.net/images/icons/search-icon.png" alt="Search" id="search-icon">
+				
+						
+						<input name="q" type="text" value="Search " id="search-box" onFocus="if(this.value=='Search '){this.value=''}" onBlur="if(this.value==''){this.value='Search '}"><input type="hidden" name="s" value="SS">
+						
+					</form>
+					
+				</div>
+				
+				
+<nav>
+		  <ul id="nav" class="main">
+				<li><a href="http://www.bobborst.com/">Home</a></li>
+								
+				<li><a href="http://www.bobborst.com/popculture/numberonesongs/">#1 On Any Date</a></li>
+				<li><a href="http://www.bobborst.com/popculture/">Pop Culture</a></li>
+				<li><a href="http://www.bobborst.com/funstuff/">Fun Stuff</a></li>
+				<li><a href="http://www.bobborst.com/tools/" class="active">Tools</a></li>
+
+				
+			
+				<!-- li><a href="http://www.bobborst.com/links/">Links</a></li -->
+		
+				
+				<!-- li><a href="/whatsnew/">What's New</a></li -->
+				
+
+
+			</ul>
+		
+		</nav>
+			
+		
+		<div  id="formnav">
+	
+		
+		<form action="/navredir.asp" method="post">
+		 <select onChange="if(this.options[this.selectedIndex].value!=''){window.location.replace(this.options[this.selectedIndex].value);}" name="location" class="rounded">
+			<option value="">Go to page...</option>
+			<option value="http://www.bobborst.com/">Home</option>
+
+				
+			<option value="http://www.bobborst.com/popculture/numberonesongs/">#1 On Any Date</option>
+			<option value="http://www.bobborst.com/popculture/">Pop Culture</option>
+			<option value="http://www.bobborst.com/funstuff/">Fun Stuff</option>
+			<option value="http://www.bobborst.com/tools/">Tools</option>
+	
+				<!-- option value="http://www.bobborst.com/links/">Links</option  -->
+
+				
+			</select>
+			<noscript>
+				<input type="submit" value="Go">
+			</noscript>
+		</form>
+		</div>
+		
+		
+		
+			
+		</div>
+			
+	
+	
+</div>
+</header>
+
+
+<div id="content">
+<div class="wrapper">
+
+
+
+
+	<div class="grids"  role="banner">
+    
+    
+	<h1 id="inpagetitle">What's My IP Address?</h1>
+	</div>
+</div>
+
+
+<div class="wrapper">
+	
+
+
+	<div class="grids">
+		<div id="breadcrumbs" class="grid-16 grid">
+		
+			<a href="/">Home Page</a> &gt; <a href="/tools/">Tools</a> &gt; <a href="/tools/whatsmyip/">What's My IP Address?</a> : Current Page<br>
+			
+			<div id="sociallinks">
+			
+			<br>
+
+			
+				<div class="g-plusone fl" data-size="medium" data-href="http://www.bobborst.com/tools/whatsmyip/"></div>
+				<div class="fl"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.bobborst.com/tools/whatsmyip/" data-count="horizontal">Tweet</a><script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script></div>
+			
+				<div class="fb-like fl" style="margin-left: 20px;" data-href="http://www.bobborst.com/tools/whatsmyip/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+				
+				
+		
+			
+		
+			<div class="cb"></div>
+
+				</div>
+		</div>
+		
+
+
+			
+		
+				
+
+	</div>
+
+
+
+</div>
+
+
+	<div style="text-align: center" class="wrapper myad">
+    
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive Top -->
+
+<ins class="adsbygoogle responsive-top"
+     style="display:inline-block"
+     data-ad-client="ca-pub-4873917328097744"
+     data-ad-slot="5073525303"></ins>
+
+<!-- ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4873917328097744"
+     data-ad-slot="1600701309"
+     data-ad-format="auto"></ins -->
+
+
+<script>
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    
+	</div>
+
+
+	<div class="wrapper" role="main">
+
+
+
+<div class="grid-12 grid">
+
+<h2>Your external IP address is: 201.209.86.139</h2>
+
+
+<p>
+If your computer is on a private network (behind a hardware firewall or router) then your computer's  IP address  is only valid in your own local network.  When you connect to another machine on the Internet, that machine  won't see your internal IP address.  Instead it will see the IP address assigned to your router.  That's what the above IP address is.  </p>
+
+<h2>How do I find my local (internal) IP address?</h2>
+
+<p>The instructions vary based on your computer's operating system.</p>
+
+<h3>For Windows 7 or Vista</h3>
+
+<ul>
+<li>Click the <strong>Start Orb</strong><br>
+<div style="width: 60px; height:38px; position:relative;" onMouseOver="setStyle('starton', 'zIndex', '20')" onMouseOut="setStyle('starton', 'zIndex', '1')"><img id="startoff" src="win7-start-orb.png" alt="Search" style="position:absolute; top:0; left:0; z-index:10"><img id="starton" src="win7-start-orb-glow.png" alt="Cmd"  style="position:absolute; top:0; left:0; z-index:1"></div></li>
+<li>In the <strong>Search</strong> box type <strong>cmd</strong> and press <strong>Enter</strong><br>
+<!-- img src="win7-search.png" alt="Search"><br -->
+<img src="win7-cmd.png" alt="Cmd"> </li>
+<li>In the command window type: <strong>ipconfig</strong> and press <strong>Enter</strong><br>
+<img src="ipconfig.gif"></li>
+<li>Your IP address will be listed on the <strong>IPv4 Address</strong> line.<br>
+<img src="win7-ip-results.png" alt="IP Address Results"></li>
+<li>To close the command window type: <strong>exit</strong> and press <strong>Enter</strong><br>
+<br>
+</li>
+</ul>
+
+
+
+
+<h3>For Windows XP or 2000</h3>
+
+<ul>
+<li>Click <strong>Start</strong></li>
+<li>Click <strong>Run...</strong></li>
+<li>In the <strong>Open:</strong> field of the Run window type: <strong>cmd</strong> and click <strong>OK</strong></li>
+<li>In the command window type: <strong>ipconfig</strong> and press <strong>Enter</strong></li>
+<li>Your IP address will be listed on the <strong>IP Address</strong> line.</li>
+<li>To close the command window type: <strong>exit</strong> and press <strong>Enter</strong></li>
+</ul>
+
+
+
+
+<!-- li>For Windows 95 or 98
+
+<ul>
+<li>Click <strong>Start</strong></li>
+<li>Click <strong>Run...</strong></li>
+<li>In the <strong>Open:</strong> field of the Run window type: <strong>winipcfg</strong> and click <strong>OK</strong></li>
+<li>In the Command windows type: <strong>ipconfig</strong> and press <strong>Enter</strong></li>
+
+</ul>
+</li -->
+</ul>
+
+<h2>I received a message saying 'ipconfig' is not recognized as an internal or external command.  What do I do?</h2>
+
+<p>This message means Windows can't find the ipconfig program. When you type the name of a program at a command prompt, the system looks for that file in the folder you are in. If it doesn't find it, it uses the path. The path is a list of folders that Windows searches to find the program you want to run. By default the Windows and system folders are in the path. If you receive the <b>ipconfig' is not recognized as an internal or external command</b> message, it means the Windows folders aren't in your path.</p>
+
+<p>To work around this, from the command prompt type:</p>
+
+<p><strong>cd\windows\system32</strong><p>
+
+<p>On Windows XP you might need to type this instead:</p>
+
+<p><strong>cd\winnt\system32</strong></p>
+
+<p>Because ipconfig is in the system32 folder you can run it from there.</p>
+
+</div>
+
+<div class="grid-4 grid">
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<div id="adside">
+<!-- Responsive Side -->
+
+<ins class="adsbygoogle responsive-side"
+     style="display:inline-block"
+     data-ad-client="ca-pub-4873917328097744"
+     data-ad-slot="1465754109"></ins>
+
+<!-- ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4873917328097744"
+     data-ad-slot="5891300102"
+     data-ad-format="auto"></ins -->
+
+
+</div>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+</div>
+
+<div class="cb"></div>
+
+
+
+
+	<div class="cb">&nbsp;</div>
+
+
+		
+		
+<div class="wrapper">
+
+<div id="commentwrap">
+<div id="guestbook" class="fb-comments" data-href="http://www.bobborst.com/tools/whatsmyip/" data-num-posts="10" data-width="100%" ></div>
+</div>
+</div>
+
+
+	<div style="text-align: center" class="wrapper myad">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive Bottom -->
+
+<ins class="adsbygoogle responsive-bottom"
+     style="display:inline-block"
+     data-ad-client="ca-pub-4873917328097744"
+     data-ad-slot="2942487301"></ins>
+
+
+<!-- ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4873917328097744"
+     data-ad-slot="8844766505"
+     data-ad-format="auto"></ins  -->
+
+
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+
+
+
+
+
+</div>
+
+</div>
+
+<footer>
+<div id="footer" class="gradient" role="contentinfo">
+
+<div class="wrapper">
+<div class="grids">
+	<div class="grid-5 grid">
+
+
+ <script type="text/javascript">
+ 
+ document.write('<p>Questions or comments? <a href="mailto:bobborst%40gmail.com?subject=Question%20or%20comment%20about%20bobborst.com">Drop me a line<\/a><\/p> ');
+	
+
+
+ </script>
+		
+		</div>
+		<div class="grid-6 grid">
+		
+			<p>Most Popular Page: <a href="/popculture/numberonesongs/">Number One Songs List</a></p>
+		</div>
+
+<div class="grid-5 grid">
+
+<p>Copyright &copy;  2001 - 2017.</p>
+</div>
+
+</div>
+
+<div class="fr">
+
+	
+
+
+
+
+	
+	</div>
+	
+	<div style="position:relative;">
+	
+</div>
+</div>
+<div class="cb">&nbsp;</div>
+	
+
+</div>
+</footer>
+
+
+
+<!-- script type="text/javascript">
+  var _sf_async_config = { uid: 48819, domain: 'bobborst.com', useCanonical: true };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    };
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script  -->
+
+<script  type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js?onload=onLoadCallback';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+_qevents.push( { qacct:"p-6eEzUTZu6pNsQ"} );
+</script>
+
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-6eEzUTZu6pNsQ.gif" style="border: none;" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<!-- Start Alexa Certify Javascript -->
+
+<script type="text/javascript">
+
+_atrk_opts = { atrk_acct:"KXATj1a0CM00yi", domain:"bobborst.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+
+</script>
+
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=KXATj1a0CM00yi" style="display:none" height="1" width="1" alt=""></noscript>
+<!-- End Alexa Certify Javascript -->  
+
+
+
+<div id="surprise"></div><div id="surprise2"></div><div id="surprise3"></div><div id="sticky-footer"></div>
+</body>
+</html>

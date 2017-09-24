@@ -1,0 +1,98 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Display My IP - Find your current public IP address</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Display My IP helps you find your current public IP address, hostname, remote port, and user agent (web browser).">
+<meta name="keywords" content="ip, ip address, hostname, find your ip address, internet protocol, public ip address, internet, port, user agent, gaming, video games, irc, computer">
+<link rel="stylesheet" type="text/css" media="screen" href="mainstyle.css">
+</head>
+<body>
+<table align="center" width="600" border="5" bordercolor="#000099" rules="none" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+	<tr height="75">
+		<td>
+			<img src="images/titlebar.gif" alt="Display My IP - Find your current public IP address" width="600" height="55">
+		</td>
+	</tr>
+	<tr>
+		<td class="bottom_pad_big">
+			<img src="images/ip.gif" alt="IP Address" width="600" height="35">
+			<div class="ip">201.209.86.139</div>
+			<div align="center">
+				<a href="http://ws.arin.net/cgi-bin/whois.pl?queryinput=201.209.86.139" class="normal">View WHOIS information for your IP</a><br>
+				<div class="small">
+					(service provided by ARIN)
+				</div>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="bottom_pad_big">
+			<img src="images/info.gif" alt="Additional Information" width="600" height="35">
+			
+			<table border="0" cellpadding="5" cellspacing="0" align="center" width="570">
+				<tr>
+					<td nowrap class="big">
+						<b>Web Browser: </b> 
+					</td>
+					<td class="big">
+						Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0					</td>
+				</tr>
+				<tr>
+					<td nowrap class="big">
+						<b>Hostname: </b> 
+					</td>
+					<td class="big">
+						CM-POP112-1160.catv.wtnet.de					</td>
+				</tr>
+				<tr>
+					<td nowrap class="big">
+						<b>Remote Port: </b>
+					</td>
+					<td class="big">
+						 46946					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" style="padding-bottom: 15px; ">
+			<script language="JavaScript">
+			<!--
+			ctxt_ad_partner = "6944782230";
+			ctxt_ad_section = "";
+			ctxt_ad_bg = "FFFFFF";
+			ctxt_ad_width = 468;
+			ctxt_ad_height = 60;
+			ctxt_ad_bc = "FFFFFF";
+			ctxt_ad_cc = "FFFFFF";
+			ctxt_ad_lc = "FF0000";
+			ctxt_ad_tc = "000000";
+			ctxt_ad_uc = "000099";
+			// -->
+			</script>
+			<script language="JavaScript" src="http://ypn-js.overture.com/partner/js/ypn.js">
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td class="bottom_pad_small">
+			<div align="center">	
+				<div class="small">
+					<div class="linkbar">
+						| <a href="./" title="Home">Home</a> 
+						| <a href="about.php" title="About Us">About Us</a> 
+						| <a href="contact.php" title="Contact Us">Contact Us</a> 
+						| <a href="privacy.php" title="Privacy Policy">Privacy Policy</a> 
+						| <a href="tos.php" title="Terms of Service">Terms of Service</a> 
+						| <a href="advertising.php" title="Advertise with Us">Advertising</a> |
+					</div>
+					Copyright &copy; 2003-2017 <a href="http://www.sparqtech.com/">SparqTech Network</a>. All rights reserved.
+				</div>
+			</div>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

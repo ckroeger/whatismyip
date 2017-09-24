@@ -1,0 +1,232 @@
+         <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-Transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<title>Ip Address - My IP - Locate an IP address</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="google-site-verification" content="OfYfztk4ppVceY_GKtAV54irphg07DwRusDdlYUqhSc" />
+<link rel="canonical" href="http://www.mon-ip.com/en/my-ip/"/><link rel="alternate" hreflang="fr" href="http://www.mon-ip.com/" />
+<link rel="alternate" hreflang="es" href="http://www.mon-ip.com/es/mi-ip/" /><meta name="RATING" content="Internet" />
+<meta name="COPYRIGHT" content="MON-IP" />
+<meta name="ROBOTS" content="INDEX,FOLLOW,ALL" />
+<meta name="description" content="What is your ip address? Get your IP address with my-ip.com. Whois service to locate an IP address. Determine if your ip is static or dynamic." />
+<meta name="Keywords" content="livebox ip, ip neufbox, freebox ip, ip box, whois, ip address information, IP, server, geolocation, gps map, beach ip, ip whois, network games, exchange given IP address, know, internet protocol network , bandwidth, ADSL, my IP, IP address, IP address, what is my ip address" />
+<meta name="author" content="Cyrille" />
+<meta name="identifier-url" content="http://www.mon-ip.com" /> 
+<meta http-equiv="content-language" content="en" />
+<meta name="location" content="France, FRANCE" /> 
+<meta name="expires" content="never" />
+<meta name="subject" content="mon ip, adresse ip, ip, yp, localiser ip" />
+<link rel="shortcut icon" href="img/iconip.ico" />
+<link rel="icon" type="image/x-icon" href="img/iconip.ico" />
+<link href="https://plus.google.com/109796887635504210584" rel="publisher" />
+<base href="http://www.mon-ip.com/" />
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+<script type="text/javascript">
+var zip=-1;var pays='DE';function stopError(){return true;}
+window.onerror=stopError;
+function addFav()
+	{
+url_site="http://www.mon-ip.com/en/my-ip/";nom_site="Get my IP address";
+if (navigator.appName != 'Microsoft Internet Explorer')
+{window.sidebar.addPanel(nom_site,url_site,"");}
+else {window.external.AddFavorite(url_site,nom_site);}
+}
+function reverseMaim(M){return(M.split('').reverse().join(''));}
+var cload=false;
+var a="ip";
+</script>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body id="centre">
+	<script type="text/javascript" src="fonction/advertisement.js"></script>
+	<div id="fb-root"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="conteneur2">
+<div id="conteneur"> 
+ <div id="haut">
+  <div id="logo">
+   <p id="nomsite">mon-ip.com/en/my-ip/</p>
+   <p id="sloti">Get my IP address</p>
+  </div>
+  <div id="menuhaut-right">
+  	<div id="menuhaut">
+  	<a href="/en/my-ip/index.php" title="adresse ip">Home</a>
+  	<a href="javascript:addFav();" title="Favoris">favorites</a>
+  	<a href="#" onClick="location.href='mailto:'+reverseMaim('tcatnoc=tcejbus?moc.pi-nom@tcatnoc');" title="Contact">Contact</a>
+  	<a href="http://toolbar.google.com/buttons/add?url=http://www.mon-ip.com/GoogleToolbar.php" rel="nofollow" title="Barre d'outil adresse ip" class="marge-ico"><img width="91" height="17" src="img/ajouttoolbar.gif" alt="Ajouter votre adresse ip sur votre barre google"/></a>
+  	<a href="http://www.facebook.com/share.php?u=http://www.mon-ip.com/" rel="nofollow" title="Ajouter mon adresse ip" target="_blank" class="marge-ico"><img width="14" height="17" src="img/facebook.gif" alt="votre adresse ip sur votre compte facebook"/></a>	
+  	<a href="http://twitter.com/home?status=Adresse IP%20-%20http://www.mon-ip.com" rel="nofollow" title="Ajouter mon adresse ip" target="_blank" class="marge-ico"><img width="17" height="17" src="img/twitter2.png" alt="votre adresse ip sur votre compte twitter"/></a>		
+  	<a href="http://www.blogger.com/blog_this.pyra?t&u=http://www.mon-ip.com&title=adresse ip" rel="nofollow" title="adresse ip" target="_blank" class="marge-ico"><img width="17" height="17" src="img/blogger.gif" alt="votre adresse ip sur votre compte blogger"/></a>
+    </div>
+  	<div id="likeface">
+  	 <span class="marge-sup"><div class="g-plusone" data-size="small" data-href="http://www.mon-ip.com/"></div></span>
+  	 <span><div class="addthis_native_toolbox"></div></span>
+  	 <span><a href="https://twitter.com/Adresse_Ip" rel="nofollow" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-show-screen-name="false">Suivre @Adresse_Ip</a><script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></span>
+  	 <span><div class="fb-like" data-href="https://www.facebook.com/AdresseIp" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></span>
+  	</div>
+  </div>
+ </div>
+ 	
+ <div id="presentation">
+  <div id="aff728">
+  
+<script type="text/javascript">
+<!--
+ActivePbban();
+   window.___gcfg = {lang: 'fr'};
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+-->
+</script>
+  </div>
+  <div id="navhaut">
+  	<a href="/en/my-ip/search-engine.php" title="Google">Google</a>
+		<a href="/en/my-ip/ip-address-information.php" title="Adress IP">Adress IP</a>
+		<a href="localiser-adresse-ip.php" title="Location">Location</a>
+		<a href="/en/my-ip/hostname-ip.php" title="IP Website">IP Website</a>
+		<a href="/en/my-ip/ip-dynamic.php" title="Dynamic IP">Dynamic IP</a>
+		<a href="adresse-ip-locale.php" title="Local IP">Local IP</a>
+  </div>
+ </div>
+
+ <div id="corps">
+  <div id="principal"> 
+   <div id="post">
+<SCRIPT type=text/javascript>
+var Ip = "201.209.86.139";
+var IpPr = "201.209.86.139";
+</SCRIPT>
+<SCRIPT language="JavaScript" src="fonction/scriptip.js"></SCRIPT>
+	<h1>Quickly get your <strong>IP address</strong></h1>
+        <div id="PageG">        
+        <p><span class="Gros"><strong>Your IP Address is: </strong></span><span id="ip">201.209.86.139</span><span class="detail"> [ <a href="/en/my-ip/ip-address-information.php" title="click for information on your IP address">Complete information here</a> ]</span><p>
+        <p>This is the address with which you are known on the Internet.</p>
+        <p><span class="Gros"><strong>Host name: </strong></span>CM-POP112-1160.catv.wtnet.de</p>
+        <p><span class="Gros">Port Used : </span><span id="ip">37133</span></p>
+                <p><span class="Gros"><strong>Your IP Local : </strong></span><a href="adresse-ip-locale.php" title="My local IP address">Click here for your local IP address</a></p>
+        <div class="classcentre"><p><span class="DetailGros"><a href="/en/my-ip/ip-address-information.php" title="click for information on your IP address">Detailed information about your ip</a></span></p>
+	</div>
+	<h3>Search Engine Google</h3>
+	<div id="google">
+		<script>
+  (function() {
+    var cx = '006059551039460149696:zws8raz1t4e';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox></gcse:searchbox>
+	</div>
+	<div id="googleresult2">
+	<gcse:searchresults></gcse:searchresults>
+	</div>
+	<p>Mon-ip.com is the fastest and easiest way to determine your <strong>IP address</strong>.</p>
+        <p>Your ip address is it dynamic? Check if it has changed since your last visit by adding my-ip.com to your <a href="javascript:addFav();" title="Ajoutez aux Favoris">favorites</a> or your google toolbar <a href="http://toolbar.google.com/buttons/add?url=http://www.mon-ip.com/GoogleToolbar.php" rel="nofollow" title="Barre d'outil adresse ip" class="marge-ico"><img width="91" height="17" src="img/ajouttoolbar.gif" alt="Ajouter votre adresse ip sur votre barre google"/ class="no-border"></a></p>
+        <h3>What is an IP address?</h3>
+        <p>
+        An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer, printer) participating in a computer network that uses the Internet Protocol for communication. An IP address serves two principal functions: host or network interface identification and location addressing. Its role has been characterized as follows: "A name indicates what we seek. An address indicates where it is. A route indicates how to get there."</p>
+        <h3>multilingual</h3>
+        <ul>
+        <li><img src="img/flag/fr.png"/>  <a href="" title="adresse ip">Quelle est mon adresse ip?</a></li>
+        <li><img src="img/flag/es.png"/>  <a href="/es/mi-ip/" title="IP address">Cual es mi IP address?</a></li>
+        </ul>
+        </div>
+            </div>
+  </div>
+  <div id="navigation">
+   <div id="liens">
+   <div class="clno"></div><h2>Tools</h2>
+   <p><a href="/en/my-ip/" title="My IP Address">My IP Address</a></p>
+   <p><a href="/en/my-ip/ip-address-information.php" title="details on your IP">details on your IP</a></p>
+   <p><a href="localiser-adresse-ip.php" title="localiser une adresse ip">Locate IP Address</a></p>
+   <p><a href="/en/my-ip/ip-dynamic.php" title="Dynamic IP?">Dynamic IP?</a></p>
+   <p><a href="/en/my-ip/hostname-ip.php" title="IP of the hostname">IP of the hostname</a></p>
+   <p><a href="adresse-ip-locale.php" title="Mon adresse IP locale">Local IP address</a></p>
+   <p><a href="definition-adresse-ip.php" title="définition adresse IP">Definition IP</a></p>
+   <p><a href="http://toolbar.google.com/buttons/add?url=http://www.mon-ip.com/GoogleToolbar.php" rel="nofollow" title="Ajouter Mon-ip à la Google Barre">Add to GoogleBarre</a></p> 
+   <p><a href="dns-corrompus-dnschanger.php" title="Test dns DNSchanger">Test DNSchanger</a></p>
+   
+   <div class="clno"></div><h2>Follow Us</h2>
+   <p><img width="14" height="14" src="img/fan.png" alt="suivre monip sur facebook"><a href="http://www.fb.me/AdresseIp" title="Fan de Mon adresse ip sur facebook" target="_blank" class="marge-zero"> facebook page</a></p>
+   <p><img width="14" height="14" src="img/twitter-icon.png" alt="suivre monip sur twitter"><a href="https://twitter.com/Adresse_Ip" rel="nofollow" title="suivez nous sur twitter" target="_blank" class="marge-zero"> twitter page</a></p>
+   <p><img width="14" height="14" src="img/gplus.png" alt="suivre monip sur google+"><a rel="publisher" href="https://plus.google.com/+monip" title="suivez nous sur google+" target="_blank" class="marge-zero"> google+ page</a></p>
+   
+   <div class="clno"></div><h2>Tutorials</h2>
+   	<p><a href="obtenir-une-adresse-ip-fixe.php" title="obtenir une adresse ip fixe avec noip">get a fixed IP address</a></p> 
+    <p><a href="tutoriel-pc-distant-vpn.php" title="control Pc distant par vpn">Remote PC via VPN</a></p>
+		<p><a href="http://monvpn.com/memberarea/aff.php?aff=034" title="Vpn monVPn" target="_blank" rel="nofollow">Anonymous MonVPN</a></p>
+   
+   <div class="clno"></div><h2>Partners</h2>
+    <p><a href="http://www.calcul-credits.com/" title="Calculer vos crédits immobilier" target="_blank">calcul-credits.com</a></p>
+    <p><a href="http://www.envoyersms.org" rel="nofollow" target="_blank" title="envoi sms, mms">Sms</a></p>
+  </div>
+  
+   
+  </div>
+ </div>
+ <div id="bas">
+  <div id="lienkit">
+  Copyright © 2004-2015 <a href="http://www.mon-ip.com">MON-IP Version 2.92</a> - Tous droits réservés <br /> Derniére mise à jour le <b>21/07/2017</b>
+   <br /> Partenaire: <a href="http://www.surfeurdor.com/" rel="nofollow" title="Comment gagner de l'argent facile sur Internet - 100% GRATUIT" target="_blank">Gagner de l'argent facile</a> <a href="sitemap.xml" title="Site map">sitemap</a>
+   <br /> <a href="referencement.php">referencemement</a>
+  </div>
+ </div>
+ <div id="xiti">
+
+<div>
+<script>
+	<!--
+	if (!navigator.userAgent.match(/(android|iphone|blackberry|symbian|symbianos|symbos|netfront|model-orange|javaplatform|iemobile|windows phone|samsung|htc|opera mobile|opera mobi|opera mini|presto|huawei|blazer|bolt|doris|fennec|gobrowser|iris|maemo browser|mib|cldc|minimo|semc-browser|skyfire|teashark|teleca|uzard|uzardweb|meego|nokia|bb10|playbook)/gi)) {ActivePbSlide();} 	
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-8366558-2', 'mon-ip.com');
+  ga('send', 'pageview');
+  -->
+</script>
+	</div>
+  </div>
+</div>
+<div id="cotedroit">
+<div id="crt-111171" style="width:160px;height:600px;"></div>
+<script type='text/javascript'>
+   Criteo.DisplayAcceptableAdIfAdblocked(
+       {'zoneid' : 111171,
+        'containerid' : 'crt-111171',
+        'overrideZoneFloor' : false,
+        'collapseContainerIfNotAdblocked' : false,
+        'callIfNotAdblocked' : function(){
+           Criteo.DisplayAd(
+              {'zoneid' : 111171,
+               'containerid' : 'crt-111171'});
+           }
+    });
+</script>
+</div>
+</div>  
+<script type="text/javascript" src="fonction/cookiechoices.js"></script>
+	<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('Les cookies nous permettent de vous proposer nos services plus facilement. En utilisant nos services, vous nous donnez expressément votre accord pour exploiter ces cookies.',
+      'Fermer', 'En savoir plus', 'informations-cookies.php');
+  });
+</script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=doby02" async="async"></script>
+</body>
+</html>

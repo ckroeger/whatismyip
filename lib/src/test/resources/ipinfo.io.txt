@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>IP Address Details - ipinfo.io</title>
+    <meta charset="utf-8">
+    <meta name="apple-itunes-app" content="app-id=917634022">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="IP Geolocation, Hostname, Network Owner and More. Comprehensive IP Address Information and REST API from ipinfo.io">
+
+    <link rel="manifest" href="/static/manifest.json">
+
+    <link href="/static/favicon.ico?v2" rel="shortcut icon" type="image/x-icon">
+    <link href="/static/favicon.ico?v2" rel="icon" type="image/x-icon">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Montserrat|Droid+Sans+Mono" rel="stylesheet">
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css' rel='stylesheet' type='text/css'>
+    <link href='/static/dist/index.css' rel='stylesheet' type='text/css'>
+    <link href='/static/flags.css' rel='stylesheet' type='text/css'>
+    <link href='/static/banner.css' rel='stylesheet' type='text/css'>
+
+    <link href='/static/layout-styles.css' rel='stylesheet' type='text/css'>
+
+    <script src="/static/dist/index.js"></script>
+
+    
+</head>
+
+<body>
+    <header>
+        <div id="map-wrapper">
+            <h1 id="heading">
+  201.209.86.139
+</h1>
+            <div id="map" class="world"></div>
+        </div>
+
+        <div id="navbar">
+
+            <div id="nav-logo-holder">
+                <a href="/" id="nav-logo">
+                    <img id="logoImg" src="/static/dist/images/navbarLogo.svg" />
+                </a>
+            </div>
+
+            <div id="menu-options">
+                <a href="/products">Products</a>
+                <a href="/pricing">Pricing</a>
+                <a href="/developers">Developers</a>
+                <a href="/about">About</a>
+            </div>
+
+            <div class="nav-signup-search-container">
+                <div class="signup-container">
+                    <img class="sign-in-icon" src="/static/images/person-icon.png" />  
+                    <a href="/account/login" class="sign-in">Sign In</a> 
+                </div>
+
+                
+                <div id="search-holder">
+                    <form method="post" action="/" id="ip-search-form">
+                        <span>
+                    <input type="text" name="ip" placeholder="Look up any IP…" tabindex="1" id ="search-input">
+                    <input type='submit' value="GO" />
+                  </span>
+                    </form>
+                </div>
+                
+            </div>
+
+        </div>
+
+    </header>
+
+    <div id="content" class="text-center">
+        
+<section class="centered-container side-padding">
+
+  
+    <p id = "google-map-holder">
+        <img class="map" src="https://maps.googleapis.com/maps/api/staticmap?center=53.5553,9.9950&zoom=9&size=640x200&sensor=false" alt="Hamburg, Hamburg, Germany Map" title="Hamburg, Hamburg, Germany Map"/>
+    </p>
+  
+
+  
+
+
+  <table class="table table-striped">
+    
+    
+
+    
+      <tr>
+        <td>Hostname</td>
+        <td>CM-POP112-1160.catv.wtnet.de</td>
+      </tr>
+    
+
+    
+      <tr>
+        <td>Network</td>
+        <td><a href="/AS15943">AS15943</a> wilhelm.tel GmbH</td>
+      </tr>
+    
+
+    
+      <tr>
+        <td>City</td>
+        <td>
+          <a class="flag flag-de" href="/countries/de"></a>
+          Hamburg, Hamburg, Germany
+        </td>
+      </tr>
+    
+
+    
+      <tr>
+        <td>Latitude/Longitude</td>
+        <td data-loc="53.5553,9.9950">53.5553,9.9950</td>
+      </tr>
+    
+
+    
+
+    
+      <tr>
+        <td>Postal Code</td>
+        <td>20099</td>
+      </tr>
+    
+
+    
+    
+      <tr>
+        <td>Route</td>
+        <td><a href="/AS15943/201.209.64.0/18">201.209.64.0/18</a></td>
+      </tr>
+    
+  </table>
+
+  
+
+  
+
+  
+  <h2>Network Speed</h2>
+  <table class="table table-striped" style="text-align: center;" id="block-table">
+    <tr>
+      <th style="width: 33%;">Download Speed</th>
+      <th style="width:34%;">Upload Speed</th>
+      <th style="width: 33%;">Ping</th>
+    </tr>
+    <tr>
+        <td>36.3 Mbps</td>
+        <td>14.74 Mbps</td>
+        <td>38.96 ms</td>
+    </tr>
+    </table>
+    <p>The average network speed for <b>wilhelm.tel GmbH</b> in <b>Hamburg</b> is shown above. See how your own network speed compares at <a rel="nofollow" href="/speedtest">speedsmart.net</a>.</p> 
+  
+
+  
+
+</section>
+
+<div id = "banner-section">
+  <div id = "feature-centered">
+    <div class = "feature">
+      <div class = "banner-item-header varying-height-header">Try our JSON API from the command line.</div>
+      <div class = "reliability-description">Get started with <code>curl ipinfo.io</code> or see our <a href="/developers">developer documentation</a> for more details.</div>
+    </div>
+
+    <div class = "feature">
+      <div class = "banner-item-header varying-height-header">Free for small projects. Pay as you grow.</div>
+      <div class = "reliability-description">Our API is free for up to 1,000 requests per day. See our <a href="/pricing">pricing</a> details if you need more.</div>
+    </div>
+
+    <div class = "feature">
+      <div class = "banner-item-header varying-height-header">A million uses.</div>
+      <div class = "reliability-description">You can use ipinfo to
+          <a href="/developers/filtering-out-bot-traffic">filter out bot traffic</a>,
+          <a href="/developers/customize-content-based-on-country">customize content based on visitor's location</a>,
+          <a href="/developers/full-country-name">display full country names</a>,
+          <a href="/developers/bulk-lookup">perform bulk IP geolocation</a>, and more.</div>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+
+    <footer class="text-center">
+        <div class="footer-holder">
+            <div class="footer-row row-one">
+                <div class="footer-column footer-middle"><a href="/products">Products</a></div>
+                <div class="footer-divider"></div>
+                <div class="footer-column footer-middle"><a href="/pricing">Pricing</a></div>
+                <div class="footer-divider"></div>
+                <div class="footer-column"><a href="/about">About</a></div>
+                <div class="footer-divider"></div>
+                <div class="footer-column"><a href="/terms">Terms</a></div>
+            </div>
+            <div id="footer-icon"></div>
+            <div class="footer-row row-two">
+                <div class="footer-column"><a href="/countries">IPs&nbsp;by&nbsp;Country</a></div>
+                <div class="footer-divider"></div>
+                <div class="footer-column footer-middle"><a href="/hosting">Hosting&nbsp;Report</a></div>
+                <div class="footer-divider"></div>
+                
+                <div class="footer-column footer-middle"><a href="/signup">Signup</a></div>
+                
+                <div class="footer-divider"></div>
+                <div class="footer-column"><a href="https://twitter.com/ipinfoio">Twitter</a></div>
+            </div>
+        </div>
+    </footer>
+
+    <script type="text/javascript">
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-2336519-21', 'ipinfo.io');
+        ga('send', 'pageview');
+    </script>
+
+     
+</body>
+
+</html>

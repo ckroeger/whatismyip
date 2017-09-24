@@ -1,0 +1,306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+	<title>IP Address Lookup (IPv4 &amp; IPv6)</title>
+
+	<link rel="stylesheet"		href="/css/styles.css.php"	type="text/css"	/>
+
+	<meta http-equiv="content-type"		content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language"	content="en" />
+	<meta http-equiv="imagetoolbar" 	content="no" />
+
+	<meta name="robots"			content="all" />
+	<meta name="author"			content="IP-Lookup.net" />
+	<meta name="copyright"		content="IP-Lookup.net" />
+	<meta name="description"	content="Determines your IP address and shows information (host, location, whois) about any IP address entered. Looks up to 10 IP addresses at the same time" />
+	<meta name="keywords"		content="my ip address,ip address,ip addresses,ip,ip v4,ip v6,ipv4,ipv6,dynamic ip address,static ip address,dns,host,hostname,location,dhcp,whois,domain information,domain owner,firewall" />
+	<meta name="content"		content="general" />
+	<meta name="distribution"	content="global" />
+	<meta name="revisit-after"	content="14 days" />
+
+	<link rel="icon"			href="/favicon.ico"	type="image/x-icon" />
+	<link rel="shortcut icon"	href="/favicon.ico"	type="image/x-icon" />
+	<script language="javascript" type="text/javascript" src="/js/functions.js"> </script>
+
+
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message"	:"By visiting this website, you consent to our use of cookies to measure our audience and offer more relevant social features, content and advertisments",
+									"dismiss"	:"Ok",
+									"learnMore"	:"&nbsp;&nbsp;More info",
+									"link"		:"/privacy.php",
+									"theme"		:"light-bottom"};
+</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
+
+</head>
+
+
+<body>
+<div id="container">
+	<div id="top"><a name="top"></a></div>
+
+	<div id="logo">
+
+		<div id="google_plusone">
+			<g:plusone annotation="none" href="/"></g:plusone>
+
+			<script type="text/javascript">
+				(function() {
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.src = 'https://apis.google.com/js/plusone.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					})();
+			</script>
+		</div>
+
+
+		<a href="/"><img id="IP_Lookup" src="/img/logo.gif" width="159" height="39" alt="Lookup IP address" /></a>
+	</div>
+
+	<div class="clear"></div>
+
+	<div id="menu">
+	<div id="menu-inner">
+	
+		<ul>
+			<li><a accesskey="1" href="/"					>Lookup</a></li>
+			<li><a accesskey="2" href="/domain-lookup.php"	>Domain Lookup</a></li>
+			<li><a accesskey="3" href="/tools.php"			>Tools</a></li>
+			<li><a accesskey="4" href="/documents.php"		>Documents</a></li>
+			<li><a accesskey="5" href="/ip-suite.php"		>IP-Suite</a></li>
+			<li><a accesskey="6" href="/contact-us-2.php"	>Contact us</a></li>
+		</ul>
+	</div>
+	</div>
+
+	<div class="clear"> </div>
+
+	<div id="presentation">
+		<h1>IP Address</h1>
+
+		<p>
+		The <b>Internet Protocol</b> (<b>IP</b>) knows each logical host interface by a number, the so-called <b>IP address</b>. On any given <b>network</b>, this number must
+		be unique among all the host interfaces that communicate through this <b>network</b>. Users of the <b>Internet</b> are sometimes given a host name in
+		addition to their numerical <b>IP address</b> by their Internet service provider.
+		</p>
+		<p>
+		The <b>IP addresses</b> of users browsing the <b>world wide web</b> are used to enable communications with the server of the web site. Also, it is usually
+		in the header of email messages one sends. In fact, for all programs that utilize the <b>TCP/IP protocol</b>, the sender IP address and destination
+		<b>IP address</b> are required in order to establish communications and send data.
+		</p>
+
+		<h1>IPv6 - IP version 6</h1>
+
+		<p>
+		<b>IPv6</b> is version 6 of the Internet Protocol; it was initially called IP Next Generation (IPng) when it was picked as the winner
+		in the IETF's IPng selection process. <b>IPv6</b> is intended to replace the previous standard, <b>IPv4</b>, which only supports up to about
+		4 billion (4 x 109) addresses, whereas <b>IPv6</b> supports up to about 3.4 x 1038 (340 undecillion) addresses.
+		</p>
+
+		<h1>Firewall - Anti-Spam - Anti-Virus</h1>
+
+		<p>
+		Use Ip-Lookup to identify threat source.
+		</p>
+
+	</div>	
+
+<div id="ads">
+	&nbsp;<br />
+<div style="width:170px; padding:5px">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9241470791040687";
+/* IP-Lookup - 160x600 */
+google_ad_slot = "7971876433";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div></div>
+
+<div class="content">
+
+
+			<p>
+				Every machine that is on a <b>TCP/IP network</b> (&nbsp;a local network, or the Internet&nbsp;) has a unique <b>Internet Protocol</b> (&nbsp;IP&nbsp;) address.
+			</p>
+			<p>
+				<b>IP-Lookup</b> helps you to find information about your current <b>IP address</b> or any other IP address.
+				It supports both <span title=" IP version 4 " class="help"><b>IPv4</b></span> and <span title=" IP version 6 " class="help"><b>IPv6</b></span> addresses.
+			</p>
+
+	 		<p class="thin right"><!-- <b class="arrow"><i>New !</i></b> &nbsp; --><a href="google-homepage-widget.php">Google HomePage Widget</a> <span class="arrow">&raquo;</span></p><p>If this is your first visit to this site, please read the <a href="site-info.php">Site Info</a> page.</p>	 		<p class="right"><a href="help.php">Help</a> <span class="arrow">&raquo;</span><br />&nbsp;</p>
+
+			<div class="hr"><hr /></div>
+
+			<table cellpadding="1" cellspacing="0" class="table">
+				<tr><td class="h1" colspan="4">Your current IP address :<div style="height:10px;"></div></td></tr>
+				<tr><th class="h2"><span title=" Wide Area Network "  class="help">WAN</span>			 </th><td class="h2"><b>:</b></td><td class="h1"><span class="vbottom monospace">201.209.86.139</span></td><td><a href="neighborhood.popup.php?ip=201.209.86.139" target="_blank" onclick="return popup ('neighborhood.popup.php?ip=201.209.86.139',550,650,true ,false);">Neighborhood</a><img src="img/popup.gif"		 width="16" height="10" align="bottom" alt="" title="Open in a popup window..."	/></td></tr>
+				<tr><th class="h2"><span title=" Local Area Network " class="help">LAN</span><br />&nbsp;</th><td class="h2"><b>:</b></td><td><div id="lan_address"><a href="#" onclick="return get_lan_address();">get my LAN address</a> <span class="arrow">&raquo;</span></div></td><td></td></tr>
+				<tr><th>Host																			 </th><td			><b>:</b></td><td nowrap="nowrap" colspan="2"><a href='goto_?cm-pop112-1160.catv.wtnet.de/' target='_blank' onmouseover='$("id_38185").className="hover";' onmouseout='document.getElementById("id_38185").className="";'>cm-pop112-1160.catv.</a><a href='goto_?wtnet.de/'				 target='_blank' id='id_38185'>wtnet.de</a><img src="img/new-window.gif" width="16" height="10" align="bottom" alt="" title="Open in a new window..."	/> &nbsp;&nbsp; <img src="img/dns-ok.gif"	   width="16" height="16" alt="OK"		title=" DNS OK "	   class="help" /></td></tr>
+				<tr><th class="spacer">Country												 </th><td			><b>:</b></td><td nowrap="nowrap" colspan="2"><a href="country.popup?c=de" target='_blank' onclick="return popup ('country.popup?c=de',600,520,true,false);">Germany</a>  &nbsp;<img src="flags/de.png" width='20' height='15' align='middle' alt='' onerror='this.style.width=0' /> <img src="img/popup.gif"		 width="16" height="10" align="bottom" alt="" title="Open in a popup window..."	/></td></tr>
+			</table>
+<script type="text/javascript"><!--
+google_ad_client = "pub-9241470791040687";
+/* IP-Lookup.net - 468x60 */
+google_ad_slot = "5345968393";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script><br />&nbsp;<div id="information_header_0"	class="info_header">&nbsp;<img src="/img/unfold.gif" width="16" height="13" alt="unfold" title="Unfold..." />&nbsp; &nbsp;<a href="information?ip=201.209.86.139"											onclick="return get_information	('201.209.86.139'								,0);">Address information</a>				</div><div id="information_body_0"	class="info_body">Please wait...<br /><img src="/img/wait_2.gif" height="5" width="120" alt="wait" /></div>
+<div id="related_header_0"		class="info_header">&nbsp;<img src="/img/unfold.gif" width="16" height="13" alt="unfold" title="Unfold..." />&nbsp; &nbsp;<a href="related?ip=201.209.86.139&amp;host=CM-POP112-1160.catv.wtnet.de&amp;domain=wtnet.de"	onclick="return get_related		('201.209.86.139','wtnet.de','CM-POP112-1160.catv.wtnet.de'	,0);">Related IP addresses</a>				</div><div id="related_body_0"		class="info_body">Please wait...<br /><img src="/img/wait_2.gif" height="5" width="120" alt="wait" /></div>
+<div id="local_IP_header_0"		class="info_header">&nbsp;<img src="/img/unfold.gif" width="16" height="13" alt="unfold" title="Unfold..." />&nbsp; &nbsp;<a href="local-ip"															onclick="return get_local_ip	(			 								 0);">Local IP addresses / Proxy</a>		</div><div id="local_IP_body_0"		class="info_body">Please wait...<br /><img src="/img/wait_2.gif" height="5" width="120" alt="wait" /></div>
+<div id="whois_IP_header_0"	 	class="info_header">&nbsp;<img src="/img/unfold.gif" width="16" height="13" alt="unfold" title="Unfold..." />&nbsp; &nbsp;<a href="whois-ip?ip=201.209.86.139"												onclick="return get_whois_ip	('201.209.86.139'								,0);">IP owner info (Whois)</a>				</div><div id="whois_IP_body_0"		class="info_body">Please wait...<br /><img src="/img/wait_2.gif" height="5" width="120" alt="wait" /></div>
+<div id="whois_header_0"		class="info_header">&nbsp;<img src="/img/unfold.gif" width="16" height="13" alt="unfold" title="Unfold..." />&nbsp; &nbsp;<a href="whois?domain=wtnet.de"											onclick="return get_whois	  	('wtnet.de'							,0);">Domain owner info (Whois / Abuse)</a>	</div><div id="whois_body_0"		class="info_body">Please wait...<br /><img src="/img/wait_2.gif" height="5" width="120" alt="wait" /></div>
+<div id="conversion_header_0"	class="info_header">&nbsp;<img src="/img/unfold.gif" width="16" height="13" alt="unfold" title="Unfold..." />&nbsp; &nbsp;<a href="conversion?ip=201.209.86.139"												onclick="return get_conversion	('201.209.86.139'								,0);">Conversions (IPv4 / IPv6)</a>			</div><div id="conversion_body_0"	class="info_body">Please wait...<br /><img src="/img/wait_2.gif" height="5" width="120" alt="wait" /></div>
+<div id="ping_header_0"			class="info_header">&nbsp;<img src="/img/unfold.gif" width="16" height="13" alt="unfold" title="Unfold..." />&nbsp; &nbsp;<a href="ping?ip=201.209.86.139"													onclick="return get_ping		('201.209.86.139'								,0);">Ping</a>								</div><div id="ping_body_0"			class="info_body">Please wait...<br /><img src="/img/wait_2.gif" height="5" width="120" alt="wait" /></div>
+
+			&nbsp;<br />
+			&nbsp;<br />
+			<div class="hr"><hr /></div>	<h1> Lookup an IP address :</h1>
+
+	<form id="form_single_IP" action="index.php" method="post"  class="thin_spacer">
+		<table cellpadding="0" cellspacing="0" class="table">
+			<tr>
+				<td><input type="text" name="ip" id="ip" class="monospace text" value="201.209.86.139" maxlength="39" /></td>
+				<td><img src="/img/lookup.gif" width="24" height="24" alt="Lookup..." title="Lookup..." class="pointer" onclick="$('form_single_IP').submit();" />&nbsp; &nbsp;[ <a href="#" onclick="return show_form_multi_IP();">list</a> ]</td>
+			</tr>
+		</table>
+	</form>
+
+	<form id="form_multi_IP" action="index.php" method="post" style="display:none;" class="thin_spacer">
+		<table cellpadding="0" cellspacing="0" class="table">
+			<tr>
+				<td><textarea name="ips" id="ips" rows="12" cols="16" class="monospace">201.209.86.139</textarea></td>
+				<td><img src="/img/lookup.gif" width="24" height="24" alt="Lookup..." title="Lookup..." class="pointer" onclick="$('form_multi_IP').submit();" />&nbsp; &nbsp;[ <a href="#" onclick="return show_form_single_IP();">single</a> ]</td>
+			</tr>
+		</table>
+	</form>
+
+	<p class="thin">
+		IP addresses can be entered using<br /><a href="help.popup.php" target="_blank" onclick="return popup ('help.popup.php',500,400,false,false);"><b>IPv4</b> or <b>IPv6</b> address format</a><img src="img/popup.gif"		 width="16" height="10" align="bottom" alt="" title="Open in a popup window..."	/>.
+	</p>
+
+	<p>&nbsp;</p>
+
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9241470791040687";
+/* IP-Lookup.net - 468x60 */
+google_ad_slot = "5345968393";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script><div id="lan_address_applet"></div>	<p>&nbsp;</p>
+
+	<iframe src="/blank.html" name="rs_iframe" id="rs_iframe" style="display:none; width:450px;"></iframe>
+
+	<form name="rs_form" id="rs_form" target="rs_iframe" action="" method="post">
+		<input type="hidden" id="rs_IP"		name="rs_IP"	 value="" />
+		<input type="hidden" id="rs_domain"	name="rs_domain" value="" />
+		<input type="hidden" id="rs_host"	name="rs_host"	 value="" />
+		<input type="hidden" id="rs_key"	name="rs_key"	 value="" />
+	</form>
+
+<script language="javascript" type="text/javascript">
+<!--
+	var o = $("ip");
+	o.focus();
+	o.value += "";
+//-->
+</script>
+
+
+	</div>
+
+	<div class="clear"> </div>
+
+<script language="javascript" type="text/javascript">
+<!--
+	var _i1=new Image(); _i1.src="/img/lookup-s.gif";
+	var _i2=new Image(); _i2.src="/img/dns-ok.gif";
+	var _i3=new Image(); _i3.src="/img/dns-broken.gif";
+	var _i4=new Image(); _i4.src="/img/fold.gif";
+
+//-->
+</script>
+
+	<div class="clear"> </div>
+
+	<p>&nbsp;</p>
+
+	<div id="nav">
+		<!-- google_ad_section_start(weight=ignore) -->
+		<a href="/site-info.php"					>Site Info</a>&nbsp; | &nbsp;
+		<a href="/site-map.php"						>Site Map</a>&nbsp; | &nbsp;
+		<a href="/help.php"			 accesskey="9"	>Help</a>&nbsp; | &nbsp;
+		<a href="/accessibility.php" accesskey="0" 	>Accessibility</a>&nbsp; | &nbsp;
+		<a href="/disclaimer.php"					>Disclaimer</a>&nbsp; | &nbsp;
+		<a href="/credits.php"						>Credits</a>&nbsp; | &nbsp;
+		<a href="/privacy.php"						>Privacy</a>&nbsp; | &nbsp;
+
+		<a href='/add-favorites.php?page=/' onclick='setFavorite ("http://ip-lookup.net/", "IP Address Lookup (IPv4 &amp; IPv6)"); return false;'>Add to favorites</a>								<br />
+
+		<!-- google_ad_section_end -->
+
+		&copy; 2017 IP-Lookup.net - All rights reserved
+			<div class="light">
+				Related terms :
+				<!-- google_ad_section_start -->
+				<b>trace IP, hide IP, change IP, IPv4, IPv6, network, HTTP, DNS, TCP/IP<br />
+				DSL, broadband, Ethernet, Wi-Fi, LAN, switch, computing, firewall, spam, geolocation, security</b>
+				<!-- google_ad_section_end -->
+
+			</div>
+	</div>
+
+	<div id="bottom"> </div>
+
+</div>
+
+
+
+
+<!-- e-pla.net::website monitoring -->
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-2591156-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+//]]>
+</script>
+
+
+
+
+
+</body>
+</html>
+

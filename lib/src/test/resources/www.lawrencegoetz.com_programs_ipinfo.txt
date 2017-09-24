@@ -1,0 +1,233 @@
+<HTML>
+<HEAD>
+  <META NAME="description" CONTENT="Find your IP address with IP Info. Get the IP address of your computer connection.">
+  <META NAME="keywords" CONTENT="ip, IP, address, dynamic, dhcp, change, ipaddress, ip address, reverse dns, reverse, dns, whois network, ISP, internet, provider, providor, inet, net, localhost, local, host, look, up, look up, system, computer, windows, information, info, dns, name">
+  <TITLE>Find your IP Address with IP Info</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+.warning {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #F00;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+-->
+</style>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" link="#0099FF" vlink="#0099FF" alink="#0099FF">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div align="center"> 
+            
+  <table width="100%" border="1">
+    <tr>
+      <td valign="top"> 
+
+        <script type="text/javascript"><!--
+google_ad_client = "pub-0302977758165598";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_channel ="";
+google_ad_type = "text_image";
+google_color_border = "B0E0E6";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "336699";
+google_color_text = "333333";
+//--></script>
+        <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+          <BR>
+        <p>
+          <script type="text/javascript"><!--
+google_ad_client = "pub-0302977758165598";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_channel ="";
+google_ad_type = "text_image";
+google_color_border = "B0E0E6";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "336699";
+google_color_text = "333333";
+//--></script>
+          <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+          <BR>
+          
+        </p>
+
+	  </td>
+      <td valign="top">
+<div align="center">
+          <h1>IP Info, see your IP address</h1>
+        </div>
+              
+        <p align="center" class="warning"><strong>If you don't see your 
+          IP information, wait a few seconds and then hit Reload. </strong> </p>
+        <table width="100%" border="1">
+          <tr>
+            <td height="138"> <table border="0" align="center">
+                <tr>
+
+                  <td align="left">
+                   
+<h1>Your IP address is<BR>
+                      201.209.86.139
+                    </h1>
+                                 
+                                  <h3 align="center"><strong>Details about your IP address:</strong> </h3>
+                      
+<!-- Start ip2location.com Link --> <IFRAME SRC="http://www.ip2location.com/ib1/" WIDTH="402" HEIGHT="84" MARGINWIDTH="1" SCROLLING="no" FRAMEBORDER="0"></IFRAME><!-- End ip2location.com Link -->                    
+ 
+                    
+			  </td>
+                  <td align="left">              <p align="center"><script type="text/javascript"><!--
+google_ad_client = "pub-0302977758165598";
+/* 300x250, created 8/31/10 */
+google_ad_slot = "9713269755";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>     </td>
+                </tr>
+              </table>
+             <!-- Place this tag where you want the +1 button to render. -->
+<div class="g-plusone" data-annotation="inline" data-width="300"></div>
+<BR>
+<div class="fb-like" data-href="http://www.lawrencegoetz.com/programs/ipinfo/" data-send="true" data-width="250" data-show-faces="true"></div>
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+              <p><strong>This is the IP address of the machine 
+                that requested the page. Typically this is your own IP address. 
+                If you used a router/proxy you will not get the correct IP address.</strong>              
+              If you use a home router  to connect to the Internet (or your company has a proxy), the IP address shown will be address of your router or proxy. If you use a router and you want to run a server on your computer, you may need to place your computer in the <a href="http://en.wikipedia.org/wiki/DMZ_(computing)">DMZ</a> settings of your router, or enable <a href="http://portforward.com/">port forwarding</a> on your router.            
+            If you have a network connection that gets a dynamic IP address and you want to give it a domain name so people can reach it easier, you might be interested in <a href="http://www.dyndns.com/services/dns/dyndns/">Dynamic DNS</a>.</p>
+            <p>If you would like to look up a domain name and get information about the host, you may look it up by doing a <a href="http://www.speedywhois.net/">whois search</a>.</p>
+            <p>To see if your IP address has a Domain Name associated with it, you can do a <a href="http://postmaster.aol.com/cgi-bin/plugh/rdns.pl">reverse lookup</a>.</p></td>
+          </tr>
+        </table>
+
+        <h4 align=center>Tell the visitors of your web site to find out their 
+          IP address. Insert this piece of code on your site:<br>
+          <em>&lt;A HREF=&quot;http://www.lawrencegoetz.com/programs/ipinfo/&quot;&gt;SEE 
+        YOUR IP ADDRESS&lt;/A&gt;</em></h4>
+        
+          <table width="100%" border="1">
+            <tr> 
+              <td></td>
+            </tr>
+            <tr> 
+              <td> 
+                  <p>A little bit about your IP address (Internet Protocol address). 
+                    When you connect to the internet, either via your internet 
+                    service provider (Verizon, Cable Vision, etc.), or your office LAN 
+                    connection, you are assigned an IP address. This address identifies 
+                    your computer from the other computers on the internet. Your 
+                    IP address can be either static, meaning it never changes, 
+                    or dynamic, meaning each time you connect online you are 
+                    assigned a new address for that session. Check with your internet 
+                    service provider or network administrator to find out if your 
+                    computer uses static or dynamic IP addressing.</p>
+                  <p>The commands below will show you the IP address of <strong><em>your</em></strong> computer. If you use a home router to connect to the Internet, the IP shown from these commands will not be your public IP address (it will be your internal IP address). Internal usually IP address start with a 10.10 or 192.168.                  </p>
+              
+              <p align=Center><br>
+                Windows 2000, XP:<br>
+                Start/Run:<br>
+                Enter in the command: <strong>cmd</strong><br>
+                At
+                the command prompt enter in: <strong>ipconfig</strong><br>
+                                  <br>
+                Vista, WIndows 7:<br>
+                Go to the command prompt by select the Windows logo and in the search box entering:<br>
+  <strong>cmd</strong><br>
+                From the command prompt enter in the command: 
+                <b>ipconfig<br>
+                <br>
+                </b>On Windows XP, Vista, Windows 7, if you'd like to know your MAC address (physical hardware address of a your network card), at the command prompt you can enter the following command:                  <br>
+                <strong>getmac -v<br>
+                <br>
+                </strong>
+ On Mac OS X:<br>
+                    1. Click on the Mac logo on the top left of the screen.<br>
+                    2. Open <strong>System Preferences</strong><br>
+                  3. Under <strong>Internet and Network</strong>, click <strong>'Network'</strong><br>
+                  4. Select which adapter, such as AirPort or Ethernet.<br>
+                  5. Select TCP/IP and you'll see your IP address.. 
+                
+                  If you receive a dynamic IP address from your internet provider, 
+                    it will likely be different on your next session. So if you 
+                    need your IP address for later use, please check when you 
+                    log on for that session.</p>
+              </td>
+            </tr>
+            <tr> 
+              <td bgcolor="#FFFFFF"><p align="center"><strong>Useful network links:</strong></p>
+                <p align="center"><a href="http://dtnsetup.com/"><img src="dtnsetup.png" alt="DNT Setup" width="388" height="93" border="0"></a></p>
+                <p align="center"><a href="http://bundleprotocol.com/"><img src="bundleprotocol.png" alt="Bundle Protocol" width="571" height="88" border="0"></a></p>
+                <ul><li>
+                  <p>Learn about <a href="http://en.wikipedia.org/wiki/Ip_address">IP 
+                    Addresses from Wikipedia</a></p>
+                </li>
+                  <li>
+                    <p>If you are setting up a network, be sure to check the <a href="http://xtronics.com/reference/ip-subnetmasks.htm">Netmask</a> 
+                      setting on the network card.</p>
+                  </li>
+                  <li>
+                    <p> Test your computer's speed to the Internet by using <a href="http://www.speedtest.net/">SpeedTest.net</a></p>
+                  </li>
+                  <li>
+                    <p><a href="http://www.ubuntu.com/">Ubuntu Linux</a> - Setup Linux as your main operation system, or if you have Windows installed, you can have both without the need to partition your hard drive.</p>
+                  </li>
+                  <li>
+                    <p><a href="http://www.virtualbox.org/">VirtualBox</a> - Setup multiple operating systems running concurrently on your computer.</p>
+                  </li>
+              </ul></td>
+            </tr>
+        </table>
+        
+</td>
+    </tr>
+  </table>
+  
+</div>
+
+   <p>Visitor <img src="http://www.lawrencegoetz.com/tinc?key=ZfushNsQ&no=1"></p>
+   <p><A HREF="/feedback/">Feedback</A></p>
+   <p><A HREF="/programs/">Return to my programs</A></p>
+</BODY></HTML>
